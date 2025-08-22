@@ -1,37 +1,26 @@
-import React, { Component } from 'react';
 
-class CrisisCounter extends Component {
-  constructor(props) {
-    super(props);
-    this.state = {
-      daysSinceLastCrisis: 0,
-    };
-  }
+import React from 'react';
 
-  componentDidMount() {
-    // Fetch the days since the last crisis from your data source (API, database, etc.)
-    // You can update this value based on your actual data source.
-    // For this example, we'll increment the days since the last crisis every second.
-    this.interval = setInterval(() => {
-      this.setState((prevState) => ({
-        daysSinceLastCrisis: prevState.daysSinceLastCrisis + 1,
-      }));
-    }, 1000);
+function CrisisCounter({ logs }) {
+  // Pick a random log as the last crisis
+  const crisisLogs = logs.filter(log => log.mistakesWereMadeToday);
+  let lastCrisisDate = null;
+  if (crisisLogs.length > 0) {
+    lastCrisisDate = crisisLogs[Math.floor(Math.random() * crisisLogs.length)].date;
   }
-
-  componentWillUnmount() {
-    clearInterval(this.interval);
+  let daysSinceLastCrisis = null;
+  if (lastCrisisDate) {
+    const last = new Date(lastCrisisDate);
+    const now = new Date();
+    daysSinceLastCrisis = Math.floor((now - last) / (1000 * 60 * 60 * 24));
   }
-
-  render() {
-    const { daysSinceLastCrisis } = this.state;
-    return (
-      <div className="crisis-counter">
-        <h2>Days Since Last Crisis:</h2>
-        <div className="counter">{daysSinceLastCrisis}</div>
-      </div>
-    );
-  }
+  return (
+    <div className="crisis-counter">
+      <h2>Days Since Last Crisis:</h2>
+      <div className="counter">{daysSinceLastCrisis !== null ? daysSinceLastCrisis : 'N/A'}</div>
+      {lastCrisisDate && <div style={{ fontSize: '0.9rem', color: '#666' }}>Last crisis: {lastCrisisDate}</div>}
+    </div>
+  );
 }
 
 export default CrisisCounter;

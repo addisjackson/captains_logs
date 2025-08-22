@@ -1,101 +1,82 @@
-import React, { Component } from 'react';
-import './App.css';
-import logs from './model/log';
+import { useState, useEffect } from "react";
+import { initLogs, removeLog, getLogs, updateLog } from "./model/logStorage";
+import NavBar from "./components/NavBar";
+import { Router, Routes, Route } from "react-router-dom";
+import LogList from "./components/LogList";
+import EditLogModal from "./components/EditLogModal";
+import LogDetailWrapper from "./components/LogDetailWrapper";
 
-class App extends Component {
-  state = {
-    logs: [], // Your log data array goes here
-    filteredLogs: [], // For search results
-    displayedLog: null, // For showing a specific log entry
-    searchQuery: '', // For the search bar
+
+function App() {
+  initLogs();
+  const [filters, setFilters] = useState({
+    searchQuery: "",
+    captain: "all",
+  });
+
+  const [logs, setLogs] = useState([]);
+  const 
+  
+[editingLog, setEditingLog] = useState(null);
+
+  // Load logs
+  useEffect(() => {
+    setLogs(getLogs());
+  }, []);
+
+  // Refresh logs from localStorage
+  const refreshLogs = () => {
+    setLogs(getLogs());
   };
 
-  // Function to handle log search
-  handleSearch = (query) => {
-    const filteredLogs = this.state.logs.filter((log) => {
-      // Implement your search criteria here
-      return (
-        log.captainName.toLowerCase().includes(query.toLowerCase()) ||
-        log.date.toLowerCase().includes(query.toLowerCase()) ||
-        log.content.toLowerCase().includes(query.toLowerCase())
-      );
-    });
-
-    this.setState({ filteredLogs, searchQuery: query });
+  // Edit log
+  const handleEditLog = (captainEntry, log) => {
+    setEditingLog(log);
   };
 
-  // Function to delete a log entry
-  deleteLog = (logId) => {
-    const updatedLogs = this.state.logs.filter((log) => log.id !== logId);
-    this.setState({ logs: updatedLogs });
+  // Close modal
+  const handleCloseModal = () => {
+    setEditingLog(null);
+    refreshLogs();
   };
 
-  // Function to update a log entry
-  updateLog = (logId, updatedLog) => {
-    const updatedLogs = this.state.logs.map((log) => {
-      if (log.id === logId) {
-        return { ...log, ...updatedLog };
-      }
-      return log;
-    });
-    this.setState({ logs: updatedLogs });
+  // **New: handle filter changes**
+  const handleFilterChange = (updated) => {
+    setFilters((prev) => ({ ...prev, ...updated }));
   };
 
-  const handleUpdateLog = (updatedLog) => {
-    // Send the updatedLog to your server and update the logs array
-  };
-
-  // Function to show a specific log entry
-  showLog = (logId) => {
-    const logToDisplay = this.state.logs.find((log) => log.id === logId);
-    this.setState({ displayedLog: logToDisplay });
-  };
-
-  // Function to post a new log entry
-  postLog = (newLog) => {
-    // Generate a unique ID for the new log entry
-    newLog.id = Date.now(); // You can use a timestamp as a unique ID
-    this.setState((prevState) => ({ logs: [...prevState.logs, newLog] }));
-  };
-
-  render() {
-    return (
-      <div className="App">
-        <header>
-          <NavBar />
-          <nav>
-            <div>
-              {/* Crisis Counter */}
-              <CrisisCounter logs={this.state.logs} />
-            </div>
-            <div>
-              <button>Order by Name</button>
-              <button>Order Chronologically</button>
-              <FilterOptions handleSearch={this.handleSearch} />
-            </div>
-          </nav>
-        </header>
-
-        <main>
-          {/* Log Form */}
-          <LogForm postLog={this.postLog} />
-
-          {logs.map((log) => (
-        <LogEntry key={log.id} log={log} onUpdate={handleUpdateLog} />
-      ))}
-          {this.state.displayedLog && <LogEntry log={this.state.displayedLog} />}
-
-          {/* List of Logs */}
-          <LogList
-            logs={this.state.filteredLogs.length > 0 ? this.state.filteredLogs : this.state.logs}
-            showLog={this.showLog}
-            deleteLog={this.deleteLog}
-            updateLog={this.updateLog}
+  return (
+    <>
+      <NavBar filters={filters} setFilters={setFilters} />
+      <div className="container mx-auto px-4 py-6">
+        <Routes>
+          <Route
+            path="/"
+            element={
+              <LogList
+                filters={filters}
+                onFilterChange={handleFilterChange} // ✅ pass handler
+                onEditLog={handleEditLog}
+              />
+            }
           />
-        </main>
+          <Route path="/logs/:id" element={<LogDetailWrapper />} />
+        </Routes>
       </div>
-    );
-  }
+
+      {editingLog && (
+        <EditLogModal
+          logData={editingLog} // pass log data
+          onClose={handleCloseModal}
+          onSave={(updatedLog) => {
+            // save edits to storage
+            updateLog(updatedLog);
+            handleCloseModal();
+          }}
+        />
+      )}
+    </>
+  );
 }
 
 export default App;

@@ -35,4 +35,13 @@
   to {
     transform: rotate(360deg);
   }
+},
+
+.p-4.border-b.border-gray-300.bg-gray-50.flex.flex-col.gap-4 {
+  padding: 1rem;
+  border-bottom: 1px solid #0b5afa;
+  background-color: #067df5;
+  display: flex;
+  flex-direction: row;
+  gap: 1rem;
 }

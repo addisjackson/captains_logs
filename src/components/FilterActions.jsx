@@ -1,69 +1,41 @@
-import React, { Component } from 'react';
+import React from "react";
+import logsData from "../model/logs.json"; // Assuming logsData is accessible here
 
-class FilterOptions extends Component {
-  state = {
-    sortOrder: 'chronological', // Default sort order
-    filterMistakes: 'all',      // Default filter for mistakes
-    filterLastCrisis: 'none',   // Default filter for last crisis
+const captains = logsData.map((entry) => entry.captainName);
+
+const FilterActions = ({ onFilterChange }) => {
+  const handleInputChange = (e) => {
+    onFilterChange({ searchQuery: e.target.value });
   };
 
-  handleSortOrderChange = (event) => {
-    this.setState({ sortOrder: event.target.value }, () => {
-      this.props.updateFilters(this.state);
-    });
+  const handleSelectChange = (e) => {
+    onFilterChange({ captain: e.target.value });
   };
 
-  handleMistakesFilterChange = (event) => {
-    this.setState({ filterMistakes: event.target.value }, () => {
-      this.props.updateFilters(this.state);
-    });
-  };
+  return (
+    <div className="flex items-center gap-3 bg-blue-600 px-0 py-0">
+      {/* Search input */}
+      <input
+        type="text"
+        placeholder="Search logs..."
+        onChange={handleInputChange}
+        className="px-2 py-1 text-black border-none outline-none bg-blue-600"
+      />
 
-  handleLastCrisisFilterChange = (event) => {
-    this.setState({ filterLastCrisis: event.target.value }, () => {
-      this.props.updateFilters(this.state);
-    });
-  };
+      {/* Captain dropdown */}
+      <select
+        onChange={handleSelectChange}
+        className="px-2 py-1 text-black border-none outline-none bg-blue-600"
+      >
+         <option value="">All Captains</option>
+        {captains.map((name) => (
+          <option key={name} value={name}>
+            {name}
+          </option>
+        ))}
+      </select>
+    </div>
+  );
+};
 
-  render() {
-    return (
-      <div className="filter-options">
-        <div>
-          <label>Sort Order:</label>
-          <select
-            value={this.state.sortOrder}
-            onChange={this.handleSortOrderChange}
-          >
-            <option value="chronological">Chronological</option>
-            <option value="alphabetical">Alphabetical</option>
-          </select>
-        </div>
-        <div>
-          <label>Mistakes:</label>
-          <select
-            value={this.state.filterMistakes}
-            onChange={this.handleMistakesFilterChange}
-          >
-            <option value="all">All</option>
-            <option value="true">Yes</option>
-            <option value="false">No</option>
-          </select>
-        </div>
-        <div>
-          <label>Last Crisis:</label>
-          <select
-            value={this.state.filterLastCrisis}
-            onChange={this.handleLastCrisisFilterChange}
-          >
-            <option value="none">None</option>
-            <option value="gt">Greater than</option>
-            <option value="lt">Less than</option>
-            <option value="eq">Equal to</option>
-          </select>
-        </div>
-      </div>
-    );
-  }
-}
-
-export default FilterOptions;
+export default FilterActions;

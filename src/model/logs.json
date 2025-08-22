@@ -1,0 +1,4592 @@
+[
+  {
+    "captainName": "Jean-Luc Picard",
+    "captainImage": "JeanLuc_Picard.jpg",
+    "shipName": "USS Enterprise",
+    "shipImage": "USS_Enterprise.webp",
+    "lastCrisisDate": "2016-03-05",
+    "logs": [
+      {
+        "id": "JeanLuc_Picard_1",
+        "location": "Archanis Sector",
+        "logTitle": "Diplomatic Mission to Vulcan",
+        "logContent": "The USS Enterprise arrived at Vulcan for a high-level diplomatic summit. Captain Jean-Luc Picard met with Vulcan officials to discuss Federation policy.",
+        "date": "2075-08-17",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 21714
+      },
+      {
+        "id": "JeanLuc_Picard_2",
+        "location": "Iconia",
+        "logTitle": "Plasma Leak in Engineering",
+        "logContent": "A plasma leak in engineering was quickly contained. Captain Jean-Luc Picard praised the engineering team.",
+        "date": "2075-08-18",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 21715
+      },
+      {
+        "id": "JeanLuc_Picard_3",
+        "location": "Sherman’s Planet",
+        "logTitle": "Alien Infiltrator Exposed",
+        "logContent": "An alien infiltrator was exposed by security. Captain Jean-Luc Picard led the debriefing.",
+        "date": "2075-08-19",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 21716
+      },
+      {
+        "id": "JeanLuc_Picard_4",
+        "location": "Zeta Alpha",
+        "logTitle": "Computer Core Upgrade",
+        "logContent": "The USS Enterprise's computer core was upgraded. Captain Jean-Luc Picard oversaw the process to ensure security.",
+        "date": "2075-08-20",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 21717
+      },
+      {
+        "id": "JeanLuc_Picard_5",
+        "location": "Breen Space",
+        "logTitle": "Temporal Anomaly Detected",
+        "logContent": "A temporal rift appeared off the port bow. The USS Enterprise science team is investigating. Captain Jean-Luc Picard has ordered yellow alert.",
+        "date": "2075-08-21",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 21718
+      },
+      {
+        "id": "JeanLuc_Picard_6",
+        "location": "Tellar",
+        "logTitle": "Alien Signal Decoded",
+        "logContent": "An alien signal was decoded by communications. Captain Jean-Luc Picard ordered a response sent.",
+        "date": "2075-08-22",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 21719
+      },
+      {
+        "id": "JeanLuc_Picard_7",
+        "location": "Ferenginar",
+        "logTitle": "Crew Exchange Program",
+        "logContent": "A crew exchange program with another Federation ship began. Captain Jean-Luc Picard welcomed new officers.",
+        "date": "2075-08-23",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 21720
+      },
+      {
+        "id": "JeanLuc_Picard_8",
+        "location": "The Badlands",
+        "logTitle": "Diplomatic Mission to Vulcan",
+        "logContent": "The USS Enterprise arrived at Vulcan for a high-level diplomatic summit. Captain Jean-Luc Picard met with Vulcan officials to discuss Federation policy.",
+        "date": "2075-08-24",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 21721
+      },
+      {
+        "id": "JeanLuc_Picard_9",
+        "location": "Earth",
+        "logTitle": "Sensor Array Recalibrated",
+        "logContent": "The sensor array was recalibrated for deep space scans. Captain Jean-Luc Picard authorized the procedure.",
+        "date": "2075-08-25",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 21722
+      },
+      {
+        "id": "JeanLuc_Picard_10",
+        "location": "The Briar Patch",
+        "logTitle": "Medical Emergency: Unknown Virus",
+        "logContent": "An unknown virus spread among the crew. Medical teams worked around the clock. Captain Jean-Luc Picard ordered quarantine protocols.",
+        "date": "2075-08-26",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 21723
+      },
+      {
+        "id": "JeanLuc_Picard_11",
+        "location": "Trill",
+        "logTitle": "Shore Leave on Risa",
+        "logContent": "Crew morale was boosted by a brief shore leave on Risa. Captain Jean-Luc Picard authorized recreational activities for all off-duty personnel.",
+        "date": "2075-08-27",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 21724
+      },
+      {
+        "id": "JeanLuc_Picard_12",
+        "location": "Gamma Quadrant",
+        "logTitle": "Plasma Leak in Engineering",
+        "logContent": "A plasma leak in engineering was quickly contained. Captain Jean-Luc Picard praised the engineering team.",
+        "date": "2075-08-28",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 21725
+      },
+      {
+        "id": "JeanLuc_Picard_13",
+        "location": "Rigel VII",
+        "logTitle": "Crew Quarantine Lifted",
+        "logContent": "A shipwide quarantine was lifted after medical clearance. Captain Jean-Luc Picard thanked the medical staff.",
+        "date": "2075-08-29",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 21726
+      },
+      {
+        "id": "JeanLuc_Picard_14",
+        "location": "Archanis Sector",
+        "logTitle": "Diplomatic Banquet",
+        "logContent": "A diplomatic banquet was held for visiting dignitaries. Captain Jean-Luc Picard delivered a welcome speech.",
+        "date": "2075-08-30",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 21727
+      },
+      {
+        "id": "JeanLuc_Picard_15",
+        "location": "The Briar Patch",
+        "logTitle": "Alien Ship Salvaged",
+        "logContent": "An alien ship was salvaged for study. Captain Jean-Luc Picard authorized the operation.",
+        "date": "2075-08-31",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 21728
+      },
+      {
+        "id": "JeanLuc_Picard_16",
+        "location": "Ekos",
+        "logTitle": "Crew Member Awarded Leave",
+        "logContent": "A crew member was awarded extended leave. Captain Jean-Luc Picard approved the request.",
+        "date": "2075-09-01",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 21729
+      },
+      {
+        "id": "JeanLuc_Picard_17",
+        "location": "Mutara Nebula",
+        "logTitle": "Alien Ship Salvaged",
+        "logContent": "An alien ship was salvaged for study. Captain Jean-Luc Picard authorized the operation.",
+        "date": "2075-09-02",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 21730
+      },
+      {
+        "id": "JeanLuc_Picard_18",
+        "location": "Xindi Prime",
+        "logTitle": "First Contact with Unknown Species",
+        "logContent": "Today, the USS Enterprise encountered a previously unknown alien species. Captain Jean-Luc Picard led the diplomatic team. Initial communications were tense, but progress was made.",
+        "date": "2075-09-03",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 21731
+      },
+      {
+        "id": "JeanLuc_Picard_19",
+        "location": "Starbase 375",
+        "logTitle": "Security Drill",
+        "logContent": "A shipwide security drill was conducted. Captain Jean-Luc Picard reviewed the crew's performance.",
+        "date": "2075-09-04",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 21732
+      },
+      {
+        "id": "JeanLuc_Picard_20",
+        "location": "Luna",
+        "logTitle": "Alien Festival Celebrated",
+        "logContent": "The crew celebrated an alien festival. Captain Jean-Luc Picard participated in the festivities.",
+        "date": "2075-09-05",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 21733
+      },
+      {
+        "id": "JeanLuc_Picard_21",
+        "location": "Trill",
+        "logTitle": "Alien Infiltrator Exposed",
+        "logContent": "An alien infiltrator was exposed by security. Captain Jean-Luc Picard led the debriefing.",
+        "date": "2075-09-06",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 21734
+      },
+      {
+        "id": "JeanLuc_Picard_22",
+        "location": "Trill",
+        "logTitle": "Rescue Operation at Cardassia",
+        "logContent": "A distress call from Cardassia prompted a rescue mission. Captain Jean-Luc Picard led an away team to assist survivors.",
+        "date": "2075-09-07",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 21735
+      },
+      {
+        "id": "JeanLuc_Picard_23",
+        "location": "Delta Quadrant",
+        "logTitle": "Crew Quarantine Lifted",
+        "logContent": "A shipwide quarantine was lifted after medical clearance. Captain Jean-Luc Picard thanked the medical staff.",
+        "date": "2075-09-08",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 21736
+      },
+      {
+        "id": "JeanLuc_Picard_24",
+        "location": "Denobula",
+        "logTitle": "Alien Artifact Recovered",
+        "logContent": "An alien artifact was recovered from a derelict vessel. Captain Jean-Luc Picard ordered it transferred to the science lab for study.",
+        "date": "2075-09-09",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 21737
+      },
+      {
+        "id": "JeanLuc_Picard_25",
+        "location": "New Berlin",
+        "logTitle": "Unidentified Probe Detected",
+        "logContent": "An unidentified probe entered the system. Captain Jean-Luc Picard ordered a tractor beam lock.",
+        "date": "2075-09-10",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 21738
+      },
+      {
+        "id": "JeanLuc_Picard_26",
+        "location": "Bajor",
+        "logTitle": "Crew Member Receives Promotion",
+        "logContent": "A crew member received a promotion for exemplary service. Captain Jean-Luc Picard presented the new rank.",
+        "date": "2075-09-11",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 21739
+      },
+      {
+        "id": "JeanLuc_Picard_27",
+        "location": "Janus VI",
+        "logTitle": "Alien Artifact Recovered",
+        "logContent": "An alien artifact was recovered from a derelict vessel. Captain Jean-Luc Picard ordered it transferred to the science lab for study.",
+        "date": "2075-09-12",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 21740
+      },
+      {
+        "id": "JeanLuc_Picard_28",
+        "location": "Wolf 359",
+        "logTitle": "Alien Virus Neutralized",
+        "logContent": "An alien virus was neutralized by medical staff. Captain Jean-Luc Picard praised their quick action.",
+        "date": "2075-09-13",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 21741
+      },
+      {
+        "id": "JeanLuc_Picard_29",
+        "location": "The Briar Patch",
+        "logTitle": "Diplomatic Mission to Vulcan",
+        "logContent": "The USS Enterprise arrived at Vulcan for a high-level diplomatic summit. Captain Jean-Luc Picard met with Vulcan officials to discuss Federation policy.",
+        "date": "2075-09-14",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 21742
+      },
+      {
+        "id": "JeanLuc_Picard_30",
+        "location": "Utopia Planitia",
+        "logTitle": "Science Experiment Success",
+        "logContent": "A science experiment yielded promising results. Captain Jean-Luc Picard congratulated the research team.",
+        "date": "2075-09-15",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 21743
+      },
+      {
+        "id": "JeanLuc_Picard_31",
+        "location": "The Badlands",
+        "logTitle": "Romulan Spy Discovered",
+        "logContent": "Security uncovered a Romulan spy aboard the USS Enterprise. Captain Jean-Luc Picard oversaw the investigation and ensured ship security.",
+        "date": "2075-09-16",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 21744
+      },
+      {
+        "id": "JeanLuc_Picard_32",
+        "location": "Rigel VII",
+        "logTitle": "Subspace Relay Failure",
+        "logContent": "A subspace relay failure disrupted communications. Captain Jean-Luc Picard ordered repairs and status updates.",
+        "date": "2075-09-17",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 21745
+      },
+      {
+        "id": "JeanLuc_Picard_33",
+        "location": "Jupiter Station",
+        "logTitle": "Meteor Shower Observation",
+        "logContent": "The USS Enterprise observed a rare meteor shower. Captain Jean-Luc Picard invited the crew to the observation lounge.",
+        "date": "2075-09-18",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 21746
+      },
+      {
+        "id": "JeanLuc_Picard_34",
+        "location": "Utopia Planitia",
+        "logTitle": "Sensor Ghosts Detected",
+        "logContent": "Unexplained sensor ghosts appeared on long-range scans. Captain Jean-Luc Picard ordered a full diagnostic.",
+        "date": "2075-09-19",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 21747
+      },
+      {
+        "id": "JeanLuc_Picard_35",
+        "location": "Mirror Universe",
+        "logTitle": "Crew Quarantine Lifted",
+        "logContent": "A shipwide quarantine was lifted after medical clearance. Captain Jean-Luc Picard thanked the medical staff.",
+        "date": "2075-09-20",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 21748
+      },
+      {
+        "id": "JeanLuc_Picard_36",
+        "location": "Alpha Centauri",
+        "logTitle": "Crew Quarantine Lifted",
+        "logContent": "A shipwide quarantine was lifted after medical clearance. Captain Jean-Luc Picard thanked the medical staff.",
+        "date": "2075-09-21",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 21749
+      },
+      {
+        "id": "JeanLuc_Picard_37",
+        "location": "Tarchannen III",
+        "logTitle": "Crew Member Recovered",
+        "logContent": "A missing crew member was recovered safely. Captain Jean-Luc Picard commended the search team.",
+        "date": "2075-09-22",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 21750
+      },
+      {
+        "id": "JeanLuc_Picard_38",
+        "location": "Sector 001",
+        "logTitle": "Ancient Ruins Surveyed",
+        "logContent": "Ancient ruins were surveyed on a nearby planet. Captain Jean-Luc Picard led the away team.",
+        "date": "2075-09-23",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 21751
+      },
+      {
+        "id": "JeanLuc_Picard_39",
+        "location": "Nimbus III",
+        "logTitle": "Shuttlecraft Lost",
+        "logContent": "A shuttlecraft was reported missing during a routine survey. Captain Jean-Luc Picard organized a search and rescue operation.",
+        "date": "2075-09-24",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 21752
+      },
+      {
+        "id": "JeanLuc_Picard_40",
+        "location": "Altair VI",
+        "logTitle": "Alien Signal Decoded",
+        "logContent": "An alien signal was decoded by communications. Captain Jean-Luc Picard ordered a response sent.",
+        "date": "2075-09-25",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 21753
+      },
+      {
+        "id": "JeanLuc_Picard_41",
+        "location": "Deep Space Twelve",
+        "logTitle": "Power Grid Fluctuations",
+        "logContent": "Power grid fluctuations affected several decks. Captain Jean-Luc Picard ordered engineering to investigate.",
+        "date": "2075-09-26",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 21754
+      },
+      {
+        "id": "JeanLuc_Picard_42",
+        "location": "Trill",
+        "logTitle": "Nebula Survey Mission",
+        "logContent": "The USS Enterprise conducted a detailed survey of a nearby nebula. Captain Jean-Luc Picard praised the science department for their thorough work.",
+        "date": "2075-09-27",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 21755
+      },
+      {
+        "id": "JeanLuc_Picard_43",
+        "location": "Wolf 359",
+        "logTitle": "Alien Virus Neutralized",
+        "logContent": "An alien virus was neutralized by medical staff. Captain Jean-Luc Picard praised their quick action.",
+        "date": "2075-09-28",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 21756
+      },
+      {
+        "id": "JeanLuc_Picard_44",
+        "location": "Rigel VII",
+        "logTitle": "Transporter Accident",
+        "logContent": "A transporter malfunction resulted in a minor injury. Captain Jean-Luc Picard ordered a full diagnostic of the system.",
+        "date": "2075-09-29",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 21757
+      },
+      {
+        "id": "JeanLuc_Picard_45",
+        "location": "Mars",
+        "logTitle": "Starfleet Inspection",
+        "logContent": "A Starfleet inspection team arrived. Captain Jean-Luc Picard prepared the crew for review.",
+        "date": "2075-09-30",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 21758
+      },
+      {
+        "id": "JeanLuc_Picard_46",
+        "location": "Iconia",
+        "logTitle": "Transporter Accident",
+        "logContent": "A transporter malfunction resulted in a minor injury. Captain Jean-Luc Picard ordered a full diagnostic of the system.",
+        "date": "2075-10-01",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 21759
+      },
+      {
+        "id": "JeanLuc_Picard_47",
+        "location": "Breen Homeworld",
+        "logTitle": "Romulan Spy Discovered",
+        "logContent": "Security uncovered a Romulan spy aboard the USS Enterprise. Captain Jean-Luc Picard oversaw the investigation and ensured ship security.",
+        "date": "2075-10-02",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 21760
+      },
+      {
+        "id": "JeanLuc_Picard_48",
+        "location": "Argelius II",
+        "logTitle": "Crew Member Recovered",
+        "logContent": "A missing crew member was recovered safely. Captain Jean-Luc Picard commended the search team.",
+        "date": "2075-10-03",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 21761
+      },
+      {
+        "id": "JeanLuc_Picard_49",
+        "location": "Dytallix B",
+        "logTitle": "First Contact with Unknown Species",
+        "logContent": "Today, the USS Enterprise encountered a previously unknown alien species. Captain Jean-Luc Picard led the diplomatic team. Initial communications were tense, but progress was made.",
+        "date": "2075-10-04",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 21762
+      },
+      {
+        "id": "JeanLuc_Picard_50",
+        "location": "Romulus",
+        "logTitle": "Q Appears On The Bridge",
+        "logContent": "Q made an unexpected appearance on the bridge, causing chaos. Captain Jean-Luc Picard attempted to reason with him.",
+        "date": "2075-10-05",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 21763
+      }
+    ]
+  },
+  {
+    "captainName": "Benjamin Sisko",
+    "captainImage": "benjamin_sisko.jpg",
+    "shipName": "USS Defiant",
+    "shipImage": "USS_Defiant.webp",
+    "lastCrisisDate": "2019-12-21",
+    "logs": [
+      {
+        "id": "benjamin_sisko_1",
+        "location": "Tzenkethi",
+        "logTitle": "Shore Leave on Risa",
+        "logContent": "Crew morale was boosted by a brief shore leave on Risa. Captain Benjamin Sisko authorized recreational activities for all off-duty personnel.",
+        "date": "2075-08-17",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 20328
+      },
+      {
+        "id": "benjamin_sisko_2",
+        "location": "Wolf 359",
+        "logTitle": "Starbase Docking",
+        "logContent": "The USS Defiant docked at a Federation starbase for resupply and crew rotation.",
+        "date": "2075-08-18",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 20329
+      },
+      {
+        "id": "benjamin_sisko_3",
+        "location": "Argelius II",
+        "logTitle": "Replicator Malfunction",
+        "logContent": "Replicators malfunctioned, causing food shortages. Captain Benjamin Sisko coordinated repairs and rationing.",
+        "date": "2075-08-19",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 20330
+      },
+      {
+        "id": "benjamin_sisko_4",
+        "location": "Nimbus System",
+        "logTitle": "Alien Artifact Recovered",
+        "logContent": "An alien artifact was recovered from a derelict vessel. Captain Benjamin Sisko ordered it transferred to the science lab for study.",
+        "date": "2075-08-20",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 20331
+      },
+      {
+        "id": "benjamin_sisko_5",
+        "location": "Tzenkethi",
+        "logTitle": "Transporter Accident",
+        "logContent": "A transporter malfunction resulted in a minor injury. Captain Benjamin Sisko ordered a full diagnostic of the system.",
+        "date": "2075-08-21",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 20332
+      },
+      {
+        "id": "benjamin_sisko_6",
+        "location": "Risa",
+        "logTitle": "New Warp Record Set",
+        "logContent": "The USS Defiant set a new warp speed record. Captain Benjamin Sisko congratulated the engineering team.",
+        "date": "2075-08-22",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 20333
+      },
+      {
+        "id": "benjamin_sisko_7",
+        "location": "Ekos",
+        "logTitle": "Alien Artifact Recovered",
+        "logContent": "An alien artifact was recovered from a derelict vessel. Captain Benjamin Sisko ordered it transferred to the science lab for study.",
+        "date": "2075-08-23",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 20334
+      },
+      {
+        "id": "benjamin_sisko_8",
+        "location": "Alpha Centauri",
+        "logTitle": "Crew Exchange Program",
+        "logContent": "A crew exchange program with another Federation ship began. Captain Benjamin Sisko welcomed new officers.",
+        "date": "2075-08-24",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 20335
+      },
+      {
+        "id": "benjamin_sisko_9",
+        "location": "Sigma Iotia II",
+        "logTitle": "Crew Member Disciplined",
+        "logContent": "A crew member was disciplined for violating protocol. Captain Benjamin Sisko held a counseling session.",
+        "date": "2075-08-25",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 20336
+      },
+      {
+        "id": "benjamin_sisko_10",
+        "location": "Nimbus III",
+        "logTitle": "Shore Leave on Risa",
+        "logContent": "Crew morale was boosted by a brief shore leave on Risa. Captain Benjamin Sisko authorized recreational activities for all off-duty personnel.",
+        "date": "2075-08-26",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 20337
+      },
+      {
+        "id": "benjamin_sisko_11",
+        "location": "Sigma Iotia II",
+        "logTitle": "Starbase Docking",
+        "logContent": "The USS Defiant docked at a Federation starbase for resupply and crew rotation.",
+        "date": "2075-08-27",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 20338
+      },
+      {
+        "id": "benjamin_sisko_12",
+        "location": "Archanis Sector",
+        "logTitle": "New Warp Record Set",
+        "logContent": "The USS Defiant set a new warp speed record. Captain Benjamin Sisko congratulated the engineering team.",
+        "date": "2075-08-28",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 20339
+      },
+      {
+        "id": "benjamin_sisko_13",
+        "location": "Galorndon Core",
+        "logTitle": "Subspace Anomaly Investigation",
+        "logContent": "A subspace anomaly was detected. Captain Benjamin Sisko ordered a science team to investigate.",
+        "date": "2075-08-29",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 20340
+      },
+      {
+        "id": "benjamin_sisko_14",
+        "location": "Ceti Alpha V",
+        "logTitle": "First Officer Commendation",
+        "logContent": "The first officer was commended for exemplary service. Captain Benjamin Sisko made a formal entry in the ship's log.",
+        "date": "2075-08-30",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 20341
+      },
+      {
+        "id": "benjamin_sisko_15",
+        "location": "Tzenkethi",
+        "logTitle": "Crew Member Missing",
+        "logContent": "A crew member was reported missing. Captain Benjamin Sisko initiated a shipwide search.",
+        "date": "2075-08-31",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 20342
+      },
+      {
+        "id": "benjamin_sisko_16",
+        "location": "Sector 31",
+        "logTitle": "Crew Exchange Program",
+        "logContent": "A crew exchange program with another Federation ship began. Captain Benjamin Sisko welcomed new officers.",
+        "date": "2075-09-01",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 20343
+      },
+      {
+        "id": "benjamin_sisko_17",
+        "location": "Deep Space Twelve",
+        "logTitle": "Alien Technology Integrated",
+        "logContent": "Alien technology was integrated into the USS Defiant's systems. Captain Benjamin Sisko oversaw the process.",
+        "date": "2075-09-02",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 20344
+      },
+      {
+        "id": "benjamin_sisko_18",
+        "location": "Deep Space Nine",
+        "logTitle": "Alien Infiltrator Exposed",
+        "logContent": "An alien infiltrator was exposed by security. Captain Benjamin Sisko led the debriefing.",
+        "date": "2075-09-03",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 20345
+      },
+      {
+        "id": "benjamin_sisko_19",
+        "location": "Genesis Planet",
+        "logTitle": "New Uniforms Issued",
+        "logContent": "New uniforms were issued to the crew. Captain Benjamin Sisko addressed the crew about the change.",
+        "date": "2075-09-04",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 20346
+      },
+      {
+        "id": "benjamin_sisko_20",
+        "location": "Ferenginar",
+        "logTitle": "Power Grid Fluctuations",
+        "logContent": "Power grid fluctuations affected several decks. Captain Benjamin Sisko ordered engineering to investigate.",
+        "date": "2075-09-05",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 20347
+      },
+      {
+        "id": "benjamin_sisko_21",
+        "location": "Ceti Alpha V",
+        "logTitle": "Borg Cube Encounter",
+        "logContent": "Sensors detected a Borg cube in the sector. Captain Benjamin Sisko initiated evasive maneuvers and prepared the USS Defiant for possible engagement.",
+        "date": "2075-09-06",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 20348
+      },
+      {
+        "id": "benjamin_sisko_22",
+        "location": "Ferenginar",
+        "logTitle": "Crew Member Disciplined",
+        "logContent": "A crew member was disciplined for violating protocol. Captain Benjamin Sisko held a counseling session.",
+        "date": "2075-09-07",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 20349
+      },
+      {
+        "id": "benjamin_sisko_23",
+        "location": "Nimbus III",
+        "logTitle": "Transporter Accident",
+        "logContent": "A transporter malfunction resulted in a minor injury. Captain Benjamin Sisko ordered a full diagnostic of the system.",
+        "date": "2075-09-08",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 20350
+      },
+      {
+        "id": "benjamin_sisko_24",
+        "location": "The Badlands",
+        "logTitle": "Diplomatic Incident on Bajor",
+        "logContent": "A diplomatic incident on Bajor required Captain Benjamin Sisko's intervention to prevent escalation.",
+        "date": "2075-09-09",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 20351
+      },
+      {
+        "id": "benjamin_sisko_25",
+        "location": "Argelius II",
+        "logTitle": "Crew Member Receives Medal",
+        "logContent": "A crew member received a Starfleet medal. Captain Benjamin Sisko presented the award in a ceremony.",
+        "date": "2075-09-10",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 20352
+      },
+      {
+        "id": "benjamin_sisko_26",
+        "location": "Ferenginar",
+        "logTitle": "Replicator Malfunction",
+        "logContent": "Replicators malfunctioned, causing food shortages. Captain Benjamin Sisko coordinated repairs and rationing.",
+        "date": "2075-09-11",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 20353
+      },
+      {
+        "id": "benjamin_sisko_27",
+        "location": "Earth",
+        "logTitle": "Holodeck Malfunction",
+        "logContent": "A holodeck malfunction trapped several crew members in a simulation. Captain Benjamin Sisko coordinated the rescue operation.",
+        "date": "2075-09-12",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 20354
+      },
+      {
+        "id": "benjamin_sisko_28",
+        "location": "Nimbus III",
+        "logTitle": "Security Drill",
+        "logContent": "A shipwide security drill was conducted. Captain Benjamin Sisko reviewed the crew's performance.",
+        "date": "2075-09-13",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 20355
+      },
+      {
+        "id": "benjamin_sisko_29",
+        "location": "The Badlands",
+        "logTitle": "Plasma Leak in Engineering",
+        "logContent": "A plasma leak in engineering was quickly contained. Captain Benjamin Sisko praised the engineering team.",
+        "date": "2075-09-14",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 20356
+      },
+      {
+        "id": "benjamin_sisko_30",
+        "location": "Ferenginar",
+        "logTitle": "Stellar Cartography Discovery",
+        "logContent": "Stellar cartography discovered a new exoplanet. Captain Benjamin Sisko authorized a probe launch.",
+        "date": "2075-09-15",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 20357
+      },
+      {
+        "id": "benjamin_sisko_31",
+        "location": "Nimbus III",
+        "logTitle": "Stellar Cartography Discovery",
+        "logContent": "Stellar cartography discovered a new exoplanet. Captain Benjamin Sisko authorized a probe launch.",
+        "date": "2075-09-16",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 20358
+      },
+      {
+        "id": "benjamin_sisko_32",
+        "location": "Sector 31",
+        "logTitle": "Crew Member Court-Martialed",
+        "logContent": "A crew member was court-martialed for misconduct. Captain Benjamin Sisko presided over the proceedings.",
+        "date": "2075-09-17",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 20359
+      },
+      {
+        "id": "benjamin_sisko_33",
+        "location": "Tellar",
+        "logTitle": "Alien Infiltrator Exposed",
+        "logContent": "An alien infiltrator was exposed by security. Captain Benjamin Sisko led the debriefing.",
+        "date": "2075-09-18",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 20360
+      },
+      {
+        "id": "benjamin_sisko_34",
+        "location": "Starbase 1",
+        "logTitle": "Science Experiment Success",
+        "logContent": "A science experiment yielded promising results. Captain Benjamin Sisko congratulated the research team.",
+        "date": "2075-09-19",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 20361
+      },
+      {
+        "id": "benjamin_sisko_35",
+        "location": "New Berlin",
+        "logTitle": "Crew Member Receives Promotion",
+        "logContent": "A crew member received a promotion for exemplary service. Captain Benjamin Sisko presented the new rank.",
+        "date": "2075-09-20",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 20362
+      },
+      {
+        "id": "benjamin_sisko_36",
+        "location": "Sector 001",
+        "logTitle": "Crew Member Receives Medal",
+        "logContent": "A crew member received a Starfleet medal. Captain Benjamin Sisko presented the award in a ceremony.",
+        "date": "2075-09-21",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 20363
+      },
+      {
+        "id": "benjamin_sisko_37",
+        "location": "Gamma Quadrant",
+        "logTitle": "Nebula Survey Mission",
+        "logContent": "The USS Defiant conducted a detailed survey of a nearby nebula. Captain Benjamin Sisko praised the science department for their thorough work.",
+        "date": "2075-09-22",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 20364
+      },
+      {
+        "id": "benjamin_sisko_38",
+        "location": "Mars",
+        "logTitle": "Stellar Cartography Discovery",
+        "logContent": "Stellar cartography discovered a new exoplanet. Captain Benjamin Sisko authorized a probe launch.",
+        "date": "2075-09-23",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 20365
+      },
+      {
+        "id": "benjamin_sisko_39",
+        "location": "Argelius II",
+        "logTitle": "Alien Ambassador Onboard",
+        "logContent": "An alien ambassador boarded the USS Defiant for negotiations. Captain Benjamin Sisko ensured their comfort.",
+        "date": "2075-09-24",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 20366
+      },
+      {
+        "id": "benjamin_sisko_40",
+        "location": "Galorndon Core",
+        "logTitle": "Shore Leave on Risa",
+        "logContent": "Crew morale was boosted by a brief shore leave on Risa. Captain Benjamin Sisko authorized recreational activities for all off-duty personnel.",
+        "date": "2075-09-25",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 20367
+      },
+      {
+        "id": "benjamin_sisko_41",
+        "location": "Mirror Universe",
+        "logTitle": "Plasma Leak in Engineering",
+        "logContent": "A plasma leak in engineering was quickly contained. Captain Benjamin Sisko praised the engineering team.",
+        "date": "2075-09-26",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 20368
+      },
+      {
+        "id": "benjamin_sisko_42",
+        "location": "Starbase 74",
+        "logTitle": "Crew Exchange Program",
+        "logContent": "A crew exchange program with another Federation ship began. Captain Benjamin Sisko welcomed new officers.",
+        "date": "2075-09-27",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 20369
+      },
+      {
+        "id": "benjamin_sisko_43",
+        "location": "Archanis Sector",
+        "logTitle": "Alien Relic Discovered",
+        "logContent": "An alien relic was discovered on an away mission. Captain Benjamin Sisko ordered it brought aboard for study.",
+        "date": "2075-09-28",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 20370
+      },
+      {
+        "id": "benjamin_sisko_44",
+        "location": "New Berlin",
+        "logTitle": "Transporter Accident",
+        "logContent": "A transporter malfunction resulted in a minor injury. Captain Benjamin Sisko ordered a full diagnostic of the system.",
+        "date": "2075-09-29",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 20371
+      },
+      {
+        "id": "benjamin_sisko_45",
+        "location": "Sherman’s Planet",
+        "logTitle": "Alien Plant Studied",
+        "logContent": "An alien plant was studied in the science lab. Captain Benjamin Sisko authorized further research.",
+        "date": "2075-09-30",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 20372
+      },
+      {
+        "id": "benjamin_sisko_46",
+        "location": "Romulus",
+        "logTitle": "Sensor Ghosts Detected",
+        "logContent": "Unexplained sensor ghosts appeared on long-range scans. Captain Benjamin Sisko ordered a full diagnostic.",
+        "date": "2075-10-01",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 20373
+      },
+      {
+        "id": "benjamin_sisko_47",
+        "location": "Bajor",
+        "logTitle": "Crew Member Receives Medal",
+        "logContent": "A crew member received a Starfleet medal. Captain Benjamin Sisko presented the award in a ceremony.",
+        "date": "2075-10-02",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 20374
+      },
+      {
+        "id": "benjamin_sisko_48",
+        "location": "The Briar Patch",
+        "logTitle": "Sensor Ghosts Detected",
+        "logContent": "Unexplained sensor ghosts appeared on long-range scans. Captain Benjamin Sisko ordered a full diagnostic.",
+        "date": "2075-10-03",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 20375
+      },
+      {
+        "id": "benjamin_sisko_49",
+        "location": "Vulcan Forge",
+        "logTitle": "Diplomatic Banquet",
+        "logContent": "A diplomatic banquet was held for visiting dignitaries. Captain Benjamin Sisko delivered a welcome speech.",
+        "date": "2075-10-04",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 20376
+      },
+      {
+        "id": "benjamin_sisko_50",
+        "location": "Archanis Sector",
+        "logTitle": "Unidentified Probe Detected",
+        "logContent": "An unidentified probe entered the system. Captain Benjamin Sisko ordered a tractor beam lock.",
+        "date": "2075-10-05",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 20377
+      }
+    ]
+  },
+  {
+    "captainName": "Kathryn Janeway",
+    "captainImage": "kathryn_janeway.jpg",
+    "shipName": "USS Voyager",
+    "shipImage": "USS_Voyager.webp",
+    "lastCrisisDate": "2025-03-23",
+    "logs": [
+      {
+        "id": "kathryn_janeway_1",
+        "location": "Andoria",
+        "logTitle": "Sensor Array Recalibrated",
+        "logContent": "The sensor array was recalibrated for deep space scans. Captain Kathryn Janeway authorized the procedure.",
+        "date": "2075-08-17",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 18409
+      },
+      {
+        "id": "kathryn_janeway_2",
+        "location": "Rigel VII",
+        "logTitle": "Stellar Cartography Discovery",
+        "logContent": "Stellar cartography discovered a new exoplanet. Captain Kathryn Janeway authorized a probe launch.",
+        "date": "2075-08-18",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 18410
+      },
+      {
+        "id": "kathryn_janeway_3",
+        "location": "Deep Space Nine",
+        "logTitle": "Alien Technology Integrated",
+        "logContent": "Alien technology was integrated into the USS Voyager's systems. Captain Kathryn Janeway oversaw the process.",
+        "date": "2075-08-19",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 18411
+      },
+      {
+        "id": "kathryn_janeway_4",
+        "location": "Orion",
+        "logTitle": "Security Drill",
+        "logContent": "A shipwide security drill was conducted. Captain Kathryn Janeway reviewed the crew's performance.",
+        "date": "2075-08-20",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 18412
+      },
+      {
+        "id": "kathryn_janeway_5",
+        "location": "Tzenkethi",
+        "logTitle": "Meteor Shower Observation",
+        "logContent": "The USS Voyager observed a rare meteor shower. Captain Kathryn Janeway invited the crew to the observation lounge.",
+        "date": "2075-08-21",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 18413
+      },
+      {
+        "id": "kathryn_janeway_6",
+        "location": "Sector 001",
+        "logTitle": "Nebula Survey Mission",
+        "logContent": "The USS Voyager conducted a detailed survey of a nearby nebula. Captain Kathryn Janeway praised the science department for their thorough work.",
+        "date": "2075-08-22",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 18414
+      },
+      {
+        "id": "kathryn_janeway_7",
+        "location": "Xindi Prime",
+        "logTitle": "Alien Festival Celebrated",
+        "logContent": "The crew celebrated an alien festival. Captain Kathryn Janeway participated in the festivities.",
+        "date": "2075-08-23",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 18415
+      },
+      {
+        "id": "kathryn_janeway_8",
+        "location": "Mutara Nebula",
+        "logTitle": "Alien Infiltrator Exposed",
+        "logContent": "An alien infiltrator was exposed by security. Captain Kathryn Janeway led the debriefing.",
+        "date": "2075-08-24",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 18416
+      },
+      {
+        "id": "kathryn_janeway_9",
+        "location": "Rigel VII",
+        "logTitle": "Crew Member Retires",
+        "logContent": "A long-serving crew member retired. Captain Kathryn Janeway gave a farewell address.",
+        "date": "2075-08-25",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 18417
+      },
+      {
+        "id": "kathryn_janeway_10",
+        "location": "Alpha Centauri",
+        "logTitle": "First Contact with Unknown Species",
+        "logContent": "Today, the USS Voyager encountered a previously unknown alien species. Captain Kathryn Janeway led the diplomatic team. Initial communications were tense, but progress was made.",
+        "date": "2075-08-26",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 18418
+      },
+      {
+        "id": "kathryn_janeway_11",
+        "location": "Deep Space Nine",
+        "logTitle": "Crew Member Wedding",
+        "logContent": "A wedding was held in the arboretum. Captain Kathryn Janeway officiated the ceremony.",
+        "date": "2075-08-27",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 18419
+      },
+      {
+        "id": "kathryn_janeway_12",
+        "location": "Alpha Centauri",
+        "logTitle": "Alien Festival Celebrated",
+        "logContent": "The crew celebrated an alien festival. Captain Kathryn Janeway participated in the festivities.",
+        "date": "2075-08-28",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 18420
+      },
+      {
+        "id": "kathryn_janeway_13",
+        "location": "Sector 31",
+        "logTitle": "Plasma Leak in Engineering",
+        "logContent": "A plasma leak in engineering was quickly contained. Captain Kathryn Janeway praised the engineering team.",
+        "date": "2075-08-29",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 18421
+      },
+      {
+        "id": "kathryn_janeway_14",
+        "location": "Vulcan Forge",
+        "logTitle": "Science Experiment Success",
+        "logContent": "A science experiment yielded promising results. Captain Kathryn Janeway congratulated the research team.",
+        "date": "2075-08-30",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 18422
+      },
+      {
+        "id": "kathryn_janeway_15",
+        "location": "Romulus",
+        "logTitle": "Alien Ambassador Onboard",
+        "logContent": "An alien ambassador boarded the USS Voyager for negotiations. Captain Kathryn Janeway ensured their comfort.",
+        "date": "2075-08-31",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 18423
+      },
+      {
+        "id": "kathryn_janeway_16",
+        "location": "Nimbus III",
+        "logTitle": "Subspace Anomaly Investigation",
+        "logContent": "A subspace anomaly was detected. Captain Kathryn Janeway ordered a science team to investigate.",
+        "date": "2075-09-01",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 18424
+      },
+      {
+        "id": "kathryn_janeway_17",
+        "location": "Ceti Alpha V",
+        "logTitle": "Alien Plant Studied",
+        "logContent": "An alien plant was studied in the science lab. Captain Kathryn Janeway authorized further research.",
+        "date": "2075-09-02",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 18425
+      },
+      {
+        "id": "kathryn_janeway_18",
+        "location": "Cestus III",
+        "logTitle": "Alien Plant Studied",
+        "logContent": "An alien plant was studied in the science lab. Captain Kathryn Janeway authorized further research.",
+        "date": "2075-09-03",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 18426
+      },
+      {
+        "id": "kathryn_janeway_19",
+        "location": "Romulus",
+        "logTitle": "Crew Member Receives Promotion",
+        "logContent": "A crew member received a promotion for exemplary service. Captain Kathryn Janeway presented the new rank.",
+        "date": "2075-09-04",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 18427
+      },
+      {
+        "id": "kathryn_janeway_20",
+        "location": "Luna",
+        "logTitle": "Alien Ambassador Onboard",
+        "logContent": "An alien ambassador boarded the USS Voyager for negotiations. Captain Kathryn Janeway ensured their comfort.",
+        "date": "2075-09-05",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 18428
+      },
+      {
+        "id": "kathryn_janeway_21",
+        "location": "Mars",
+        "logTitle": "Crew Member Missing",
+        "logContent": "A crew member was reported missing. Captain Kathryn Janeway initiated a shipwide search.",
+        "date": "2075-09-06",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 18429
+      },
+      {
+        "id": "kathryn_janeway_22",
+        "location": "Mars",
+        "logTitle": "Alien Technology Integrated",
+        "logContent": "Alien technology was integrated into the USS Voyager's systems. Captain Kathryn Janeway oversaw the process.",
+        "date": "2075-09-07",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 18430
+      },
+      {
+        "id": "kathryn_janeway_23",
+        "location": "Wolf 359",
+        "logTitle": "Holodeck Malfunction",
+        "logContent": "A holodeck malfunction trapped several crew members in a simulation. Captain Kathryn Janeway coordinated the rescue operation.",
+        "date": "2075-09-08",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 18431
+      },
+      {
+        "id": "kathryn_janeway_24",
+        "location": "Gamma Quadrant",
+        "logTitle": "Science Experiment Success",
+        "logContent": "A science experiment yielded promising results. Captain Kathryn Janeway congratulated the research team.",
+        "date": "2075-09-09",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 18432
+      },
+      {
+        "id": "kathryn_janeway_25",
+        "location": "Genesis Planet",
+        "logTitle": "Alien Infiltrator Exposed",
+        "logContent": "An alien infiltrator was exposed by security. Captain Kathryn Janeway led the debriefing.",
+        "date": "2075-09-10",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 18433
+      },
+      {
+        "id": "kathryn_janeway_26",
+        "location": "Utopia Planitia",
+        "logTitle": "New Shuttlecraft Commissioned",
+        "logContent": "A new shuttlecraft was commissioned. Captain Kathryn Janeway attended the launch ceremony.",
+        "date": "2075-09-11",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 18434
+      },
+      {
+        "id": "kathryn_janeway_27",
+        "location": "The Briar Patch",
+        "logTitle": "Shore Leave on Risa",
+        "logContent": "Crew morale was boosted by a brief shore leave on Risa. Captain Kathryn Janeway authorized recreational activities for all off-duty personnel.",
+        "date": "2075-09-12",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 18435
+      },
+      {
+        "id": "kathryn_janeway_28",
+        "location": "Xindi Prime",
+        "logTitle": "New Warp Record Set",
+        "logContent": "The USS Voyager set a new warp speed record. Captain Kathryn Janeway congratulated the engineering team.",
+        "date": "2075-09-13",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 18436
+      },
+      {
+        "id": "kathryn_janeway_29",
+        "location": "Zeta Alpha",
+        "logTitle": "Alien Delegation Arrives",
+        "logContent": "An alien delegation arrived for peace talks. Captain Kathryn Janeway welcomed them aboard the USS Voyager.",
+        "date": "2075-09-14",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 18437
+      },
+      {
+        "id": "kathryn_janeway_30",
+        "location": "Ekos",
+        "logTitle": "Crew Member Court-Martialed",
+        "logContent": "A crew member was court-martialed for misconduct. Captain Kathryn Janeway presided over the proceedings.",
+        "date": "2075-09-15",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 18438
+      },
+      {
+        "id": "kathryn_janeway_31",
+        "location": "New Berlin",
+        "logTitle": "New Uniforms Issued",
+        "logContent": "New uniforms were issued to the crew. Captain Kathryn Janeway addressed the crew about the change.",
+        "date": "2075-09-16",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 18439
+      },
+      {
+        "id": "kathryn_janeway_32",
+        "location": "Gamma Quadrant",
+        "logTitle": "Asteroid Field Navigation",
+        "logContent": "The USS Voyager successfully navigated a dense asteroid field. Captain Kathryn Janeway praised the helm officer's skill.",
+        "date": "2075-09-17",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 18440
+      },
+      {
+        "id": "kathryn_janeway_33",
+        "location": "Cestus III",
+        "logTitle": "Science Experiment Success",
+        "logContent": "A science experiment yielded promising results. Captain Kathryn Janeway congratulated the research team.",
+        "date": "2075-09-18",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 18441
+      },
+      {
+        "id": "kathryn_janeway_34",
+        "location": "Breen Homeworld",
+        "logTitle": "Sensor Ghosts Detected",
+        "logContent": "Unexplained sensor ghosts appeared on long-range scans. Captain Kathryn Janeway ordered a full diagnostic.",
+        "date": "2075-09-19",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 18442
+      },
+      {
+        "id": "kathryn_janeway_35",
+        "location": "Archanis Sector",
+        "logTitle": "Starbase Docking",
+        "logContent": "The USS Voyager docked at a Federation starbase for resupply and crew rotation.",
+        "date": "2075-09-20",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 18443
+      },
+      {
+        "id": "kathryn_janeway_36",
+        "location": "Utopia Planitia",
+        "logTitle": "New Warp Record Set",
+        "logContent": "The USS Voyager set a new warp speed record. Captain Kathryn Janeway congratulated the engineering team.",
+        "date": "2075-09-21",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 18444
+      },
+      {
+        "id": "kathryn_janeway_37",
+        "location": "Dytallix B",
+        "logTitle": "Science Experiment Success",
+        "logContent": "A science experiment yielded promising results. Captain Kathryn Janeway congratulated the research team.",
+        "date": "2075-09-22",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 18445
+      },
+      {
+        "id": "kathryn_janeway_38",
+        "location": "Betazed",
+        "logTitle": "Crew Member Receives Commendation",
+        "logContent": "A crew member received a commendation for bravery. Captain Kathryn Janeway made a formal entry in the log.",
+        "date": "2075-09-23",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 18446
+      },
+      {
+        "id": "kathryn_janeway_39",
+        "location": "Alpha Centauri",
+        "logTitle": "Crew Quarantine Lifted",
+        "logContent": "A shipwide quarantine was lifted after medical clearance. Captain Kathryn Janeway thanked the medical staff.",
+        "date": "2075-09-24",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 18447
+      },
+      {
+        "id": "kathryn_janeway_40",
+        "location": "Betazed",
+        "logTitle": "Stellar Cartography Discovery",
+        "logContent": "Stellar cartography discovered a new exoplanet. Captain Kathryn Janeway authorized a probe launch.",
+        "date": "2075-09-25",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 18448
+      },
+      {
+        "id": "kathryn_janeway_41",
+        "location": "Rigel VII",
+        "logTitle": "First Contact with Unknown Species",
+        "logContent": "Today, the USS Voyager encountered a previously unknown alien species. Captain Kathryn Janeway led the diplomatic team. Initial communications were tense, but progress was made.",
+        "date": "2075-09-26",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 18449
+      },
+      {
+        "id": "kathryn_janeway_42",
+        "location": "Delta Quadrant",
+        "logTitle": "Alien Language Deciphered",
+        "logContent": "A new alien language was deciphered. Captain Kathryn Janeway praised the linguistics team.",
+        "date": "2075-09-27",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 18450
+      },
+      {
+        "id": "kathryn_janeway_43",
+        "location": "Jupiter Station",
+        "logTitle": "Alien Ship Salvaged",
+        "logContent": "An alien ship was salvaged for study. Captain Kathryn Janeway authorized the operation.",
+        "date": "2075-09-28",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 18451
+      },
+      {
+        "id": "kathryn_janeway_44",
+        "location": "Kelvin Outpost",
+        "logTitle": "Starfleet Inspection",
+        "logContent": "A Starfleet inspection team arrived. Captain Kathryn Janeway prepared the crew for review.",
+        "date": "2075-09-29",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 18452
+      },
+      {
+        "id": "kathryn_janeway_45",
+        "location": "Delta Vega",
+        "logTitle": "New Warp Record Set",
+        "logContent": "The USS Voyager set a new warp speed record. Captain Kathryn Janeway congratulated the engineering team.",
+        "date": "2075-09-30",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 18453
+      },
+      {
+        "id": "kathryn_janeway_46",
+        "location": "Breen Space",
+        "logTitle": "Security Drill",
+        "logContent": "A shipwide security drill was conducted. Captain Kathryn Janeway reviewed the crew's performance.",
+        "date": "2075-10-01",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 18454
+      },
+      {
+        "id": "kathryn_janeway_47",
+        "location": "Starbase 1",
+        "logTitle": "Crew Member Receives Promotion",
+        "logContent": "A crew member received a promotion for exemplary service. Captain Kathryn Janeway presented the new rank.",
+        "date": "2075-10-02",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 18455
+      },
+      {
+        "id": "kathryn_janeway_48",
+        "location": "Sigma Iotia II",
+        "logTitle": "Alien Pet Onboard",
+        "logContent": "A crew member adopted an alien pet. Captain Kathryn Janeway approved after a medical scan.",
+        "date": "2075-10-03",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 18456
+      },
+      {
+        "id": "kathryn_janeway_49",
+        "location": "Romulus",
+        "logTitle": "Crew Member Reassigned",
+        "logContent": "A crew member was reassigned to another post. Captain Kathryn Janeway held a transfer ceremony.",
+        "date": "2075-10-04",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 18457
+      },
+      {
+        "id": "kathryn_janeway_50",
+        "location": "Rura Penthe",
+        "logTitle": "Diplomatic Gift Exchanged",
+        "logContent": "A diplomatic gift was exchanged with a visiting delegation. Captain Kathryn Janeway presented the gift on behalf of Starfleet.",
+        "date": "2075-10-05",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 18458
+      }
+    ]
+  },
+  {
+    "captainName": "Jonathan Archer",
+    "captainImage": "jonathan_archer.jpg",
+    "shipName": "Enterprise NX-01",
+    "shipImage": "Enterprise_NX-01.webp",
+    "lastCrisisDate": "2016-08-24",
+    "logs": [
+      {
+        "id": "jonathan_archer_1",
+        "location": "Sector 31",
+        "logTitle": "Engineering: Warp Core Overload",
+        "logContent": "A warp core overload was narrowly averted thanks to quick action by engineering. Captain Jonathan Archer commended the crew for their bravery.",
+        "date": "2075-08-17",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 21542
+      },
+      {
+        "id": "jonathan_archer_2",
+        "location": "Breen Homeworld",
+        "logTitle": "Nebula Survey Mission",
+        "logContent": "The Enterprise NX-01 conducted a detailed survey of a nearby nebula. Captain Jonathan Archer praised the science department for their thorough work.",
+        "date": "2075-08-18",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 21543
+      },
+      {
+        "id": "jonathan_archer_3",
+        "location": "Deep Space Twelve",
+        "logTitle": "Crew Member Court-Martialed",
+        "logContent": "A crew member was court-martialed for misconduct. Captain Jonathan Archer presided over the proceedings.",
+        "date": "2075-08-19",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 21544
+      },
+      {
+        "id": "jonathan_archer_4",
+        "location": "Jupiter Station",
+        "logTitle": "Crew Member Recovered",
+        "logContent": "A missing crew member was recovered safely. Captain Jonathan Archer commended the search team.",
+        "date": "2075-08-20",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 21545
+      },
+      {
+        "id": "jonathan_archer_5",
+        "location": "Ekos",
+        "logTitle": "Crew Member Wedding",
+        "logContent": "A wedding was held in the arboretum. Captain Jonathan Archer officiated the ceremony.",
+        "date": "2075-08-21",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 21546
+      },
+      {
+        "id": "jonathan_archer_6",
+        "location": "Tzenkethi",
+        "logTitle": "Ion Storm Approaching",
+        "logContent": "An ion storm is approaching. Captain Jonathan Archer ordered all decks to secure for heavy turbulence.",
+        "date": "2075-08-22",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 21547
+      },
+      {
+        "id": "jonathan_archer_7",
+        "location": "Sigma Iotia II",
+        "logTitle": "Sensor Ghosts Detected",
+        "logContent": "Unexplained sensor ghosts appeared on long-range scans. Captain Jonathan Archer ordered a full diagnostic.",
+        "date": "2075-08-23",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 21548
+      },
+      {
+        "id": "jonathan_archer_8",
+        "location": "Trill",
+        "logTitle": "Alien Artifact Recovered",
+        "logContent": "An alien artifact was recovered from a derelict vessel. Captain Jonathan Archer ordered it transferred to the science lab for study.",
+        "date": "2075-08-24",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 21549
+      },
+      {
+        "id": "jonathan_archer_9",
+        "location": "Starbase 1",
+        "logTitle": "Crew Member Receives Medal",
+        "logContent": "A crew member received a Starfleet medal. Captain Jonathan Archer presented the award in a ceremony.",
+        "date": "2075-08-25",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 21550
+      },
+      {
+        "id": "jonathan_archer_10",
+        "location": "Bajor",
+        "logTitle": "Crew Member Reassigned",
+        "logContent": "A crew member was reassigned to another post. Captain Jonathan Archer held a transfer ceremony.",
+        "date": "2075-08-26",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 21551
+      },
+      {
+        "id": "jonathan_archer_11",
+        "location": "Sector 001",
+        "logTitle": "Rescue Operation at Cardassia",
+        "logContent": "A distress call from Cardassia prompted a rescue mission. Captain Jonathan Archer led an away team to assist survivors.",
+        "date": "2075-08-27",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 21552
+      },
+      {
+        "id": "jonathan_archer_12",
+        "location": "Nimbus System",
+        "logTitle": "Crew Quarantine Lifted",
+        "logContent": "A shipwide quarantine was lifted after medical clearance. Captain Jonathan Archer thanked the medical staff.",
+        "date": "2075-08-28",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 21553
+      },
+      {
+        "id": "jonathan_archer_13",
+        "location": "Luna",
+        "logTitle": "Rescue Operation at Cardassia",
+        "logContent": "A distress call from Cardassia prompted a rescue mission. Captain Jonathan Archer led an away team to assist survivors.",
+        "date": "2075-08-29",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 21554
+      },
+      {
+        "id": "jonathan_archer_14",
+        "location": "Luna",
+        "logTitle": "Transporter Accident",
+        "logContent": "A transporter malfunction resulted in a minor injury. Captain Jonathan Archer ordered a full diagnostic of the system.",
+        "date": "2075-08-30",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 21555
+      },
+      {
+        "id": "jonathan_archer_15",
+        "location": "Jupiter Station",
+        "logTitle": "Crew Member Missing",
+        "logContent": "A crew member was reported missing. Captain Jonathan Archer initiated a shipwide search.",
+        "date": "2075-08-31",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 21556
+      },
+      {
+        "id": "jonathan_archer_16",
+        "location": "Sherman’s Planet",
+        "logTitle": "Crew Member Receives Promotion",
+        "logContent": "A crew member received a promotion for exemplary service. Captain Jonathan Archer presented the new rank.",
+        "date": "2075-09-01",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 21557
+      },
+      {
+        "id": "jonathan_archer_17",
+        "location": "Galorndon Core",
+        "logTitle": "Sabotage Attempt Foiled",
+        "logContent": "A sabotage attempt was foiled by security. Captain Jonathan Archer commended the quick response.",
+        "date": "2075-09-02",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 21558
+      },
+      {
+        "id": "jonathan_archer_18",
+        "location": "Deep Space Twelve",
+        "logTitle": "Shore Leave on Risa",
+        "logContent": "Crew morale was boosted by a brief shore leave on Risa. Captain Jonathan Archer authorized recreational activities for all off-duty personnel.",
+        "date": "2075-09-03",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 21559
+      },
+      {
+        "id": "jonathan_archer_19",
+        "location": "New Berlin",
+        "logTitle": "Alien Ship Salvaged",
+        "logContent": "An alien ship was salvaged for study. Captain Jonathan Archer authorized the operation.",
+        "date": "2075-09-04",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 21560
+      },
+      {
+        "id": "jonathan_archer_20",
+        "location": "Starbase 1",
+        "logTitle": "Shuttlecraft Lost",
+        "logContent": "A shuttlecraft was reported missing during a routine survey. Captain Jonathan Archer organized a search and rescue operation.",
+        "date": "2075-09-05",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 21561
+      },
+      {
+        "id": "jonathan_archer_21",
+        "location": "Mutara Nebula",
+        "logTitle": "Medical Supply Shortage",
+        "logContent": "A medical supply shortage required rationing. Captain Jonathan Archer coordinated with Starfleet Command.",
+        "date": "2075-09-06",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 21562
+      },
+      {
+        "id": "jonathan_archer_22",
+        "location": "Nimbus III",
+        "logTitle": "Crew Member Missing",
+        "logContent": "A crew member was reported missing. Captain Jonathan Archer initiated a shipwide search.",
+        "date": "2075-09-07",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 21563
+      },
+      {
+        "id": "jonathan_archer_23",
+        "location": "Luna",
+        "logTitle": "Alien Ambassador Onboard",
+        "logContent": "An alien ambassador boarded the Enterprise NX-01 for negotiations. Captain Jonathan Archer ensured their comfort.",
+        "date": "2075-09-08",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 21564
+      },
+      {
+        "id": "jonathan_archer_24",
+        "location": "Xindi Prime",
+        "logTitle": "Asteroid Field Navigation",
+        "logContent": "The Enterprise NX-01 successfully navigated a dense asteroid field. Captain Jonathan Archer praised the helm officer's skill.",
+        "date": "2075-09-09",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 21565
+      },
+      {
+        "id": "jonathan_archer_25",
+        "location": "The Neutral Zone",
+        "logTitle": "Science Experiment Success",
+        "logContent": "A science experiment yielded promising results. Captain Jonathan Archer congratulated the research team.",
+        "date": "2075-09-10",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 21566
+      },
+      {
+        "id": "jonathan_archer_26",
+        "location": "Argelius II",
+        "logTitle": "Diplomatic Gift Exchanged",
+        "logContent": "A diplomatic gift was exchanged with a visiting delegation. Captain Jonathan Archer presented the gift on behalf of Starfleet.",
+        "date": "2075-09-11",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 21567
+      },
+      {
+        "id": "jonathan_archer_27",
+        "location": "Deep Space Nine",
+        "logTitle": "Crew Member Returns from Leave",
+        "logContent": "A crew member returned from extended leave. Captain Jonathan Archer welcomed them back aboard.",
+        "date": "2075-09-12",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 21568
+      },
+      {
+        "id": "jonathan_archer_28",
+        "location": "Mars",
+        "logTitle": "Alien Language Deciphered",
+        "logContent": "A new alien language was deciphered. Captain Jonathan Archer praised the linguistics team.",
+        "date": "2075-09-13",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 21569
+      },
+      {
+        "id": "jonathan_archer_29",
+        "location": "Zeta Alpha",
+        "logTitle": "Alien Infiltrator Exposed",
+        "logContent": "An alien infiltrator was exposed by security. Captain Jonathan Archer led the debriefing.",
+        "date": "2075-09-14",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 21570
+      },
+      {
+        "id": "jonathan_archer_30",
+        "location": "Ferenginar",
+        "logTitle": "Q Appears On The Bridge",
+        "logContent": "Q made an unexpected appearance on the bridge, causing chaos. Captain Jonathan Archer attempted to reason with him.",
+        "date": "2075-09-15",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 21571
+      },
+      {
+        "id": "jonathan_archer_31",
+        "location": "Deep Space Twelve",
+        "logTitle": "Romulan Spy Discovered",
+        "logContent": "Security uncovered a Romulan spy aboard the Enterprise NX-01. Captain Jonathan Archer oversaw the investigation and ensured ship security.",
+        "date": "2075-09-16",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 21572
+      },
+      {
+        "id": "jonathan_archer_32",
+        "location": "Vulcan Forge",
+        "logTitle": "Alien Signal Decoded",
+        "logContent": "An alien signal was decoded by communications. Captain Jonathan Archer ordered a response sent.",
+        "date": "2075-09-17",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 21573
+      },
+      {
+        "id": "jonathan_archer_33",
+        "location": "Wolf 359",
+        "logTitle": "Holodeck Malfunction",
+        "logContent": "A holodeck malfunction trapped several crew members in a simulation. Captain Jonathan Archer coordinated the rescue operation.",
+        "date": "2075-09-18",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 21574
+      },
+      {
+        "id": "jonathan_archer_34",
+        "location": "Sector 31",
+        "logTitle": "Rescue Operation at Cardassia",
+        "logContent": "A distress call from Cardassia prompted a rescue mission. Captain Jonathan Archer led an away team to assist survivors.",
+        "date": "2075-09-19",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 21575
+      },
+      {
+        "id": "jonathan_archer_35",
+        "location": "Mutara Nebula",
+        "logTitle": "Alien Relic Discovered",
+        "logContent": "An alien relic was discovered on an away mission. Captain Jonathan Archer ordered it brought aboard for study.",
+        "date": "2075-09-20",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 21576
+      },
+      {
+        "id": "jonathan_archer_36",
+        "location": "Sigma Iotia II",
+        "logTitle": "Asteroid Field Navigation",
+        "logContent": "The Enterprise NX-01 successfully navigated a dense asteroid field. Captain Jonathan Archer praised the helm officer's skill.",
+        "date": "2075-09-21",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 21577
+      },
+      {
+        "id": "jonathan_archer_37",
+        "location": "Sector 31",
+        "logTitle": "Ancient Ruins Surveyed",
+        "logContent": "Ancient ruins were surveyed on a nearby planet. Captain Jonathan Archer led the away team.",
+        "date": "2075-09-22",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 21578
+      },
+      {
+        "id": "jonathan_archer_38",
+        "location": "Vulcan",
+        "logTitle": "Plasma Leak in Engineering",
+        "logContent": "A plasma leak in engineering was quickly contained. Captain Jonathan Archer praised the engineering team.",
+        "date": "2075-09-23",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 21579
+      },
+      {
+        "id": "jonathan_archer_39",
+        "location": "Ekos",
+        "logTitle": "Transporter Accident",
+        "logContent": "A transporter malfunction resulted in a minor injury. Captain Jonathan Archer ordered a full diagnostic of the system.",
+        "date": "2075-09-24",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 21580
+      },
+      {
+        "id": "jonathan_archer_40",
+        "location": "Vulcan",
+        "logTitle": "Alien Virus Neutralized",
+        "logContent": "An alien virus was neutralized by medical staff. Captain Jonathan Archer praised their quick action.",
+        "date": "2075-09-25",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 21581
+      },
+      {
+        "id": "jonathan_archer_41",
+        "location": "The Briar Patch",
+        "logTitle": "Alien Plant Studied",
+        "logContent": "An alien plant was studied in the science lab. Captain Jonathan Archer authorized further research.",
+        "date": "2075-09-26",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 21582
+      },
+      {
+        "id": "jonathan_archer_42",
+        "location": "New Vulcan",
+        "logTitle": "Diplomatic Mission to Vulcan",
+        "logContent": "The Enterprise NX-01 arrived at Vulcan for a high-level diplomatic summit. Captain Jonathan Archer met with Vulcan officials to discuss Federation policy.",
+        "date": "2075-09-27",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 21583
+      },
+      {
+        "id": "jonathan_archer_43",
+        "location": "Ekos",
+        "logTitle": "Crew Member Retires",
+        "logContent": "A long-serving crew member retired. Captain Jonathan Archer gave a farewell address.",
+        "date": "2075-09-28",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 21584
+      },
+      {
+        "id": "jonathan_archer_44",
+        "location": "Gamma Quadrant",
+        "logTitle": "Nebula Survey Mission",
+        "logContent": "The Enterprise NX-01 conducted a detailed survey of a nearby nebula. Captain Jonathan Archer praised the science department for their thorough work.",
+        "date": "2075-09-29",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 21585
+      },
+      {
+        "id": "jonathan_archer_45",
+        "location": "Zeta Alpha",
+        "logTitle": "Science Experiment Success",
+        "logContent": "A science experiment yielded promising results. Captain Jonathan Archer congratulated the research team.",
+        "date": "2075-09-30",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 21586
+      },
+      {
+        "id": "jonathan_archer_46",
+        "location": "Romulus",
+        "logTitle": "Shuttlecraft Lost",
+        "logContent": "A shuttlecraft was reported missing during a routine survey. Captain Jonathan Archer organized a search and rescue operation.",
+        "date": "2075-10-01",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 21587
+      },
+      {
+        "id": "jonathan_archer_47",
+        "location": "Deep Space Twelve",
+        "logTitle": "First Contact with Unknown Species",
+        "logContent": "Today, the Enterprise NX-01 encountered a previously unknown alien species. Captain Jonathan Archer led the diplomatic team. Initial communications were tense, but progress was made.",
+        "date": "2075-10-02",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 21588
+      },
+      {
+        "id": "jonathan_archer_48",
+        "location": "Xindi Prime",
+        "logTitle": "Sabotage Attempt Foiled",
+        "logContent": "A sabotage attempt was foiled by security. Captain Jonathan Archer commended the quick response.",
+        "date": "2075-10-03",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 21589
+      },
+      {
+        "id": "jonathan_archer_49",
+        "location": "Mars",
+        "logTitle": "Stellar Cartography Discovery",
+        "logContent": "Stellar cartography discovered a new exoplanet. Captain Jonathan Archer authorized a probe launch.",
+        "date": "2075-10-04",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 21590
+      },
+      {
+        "id": "jonathan_archer_50",
+        "location": "Qo'noS",
+        "logTitle": "Romulan Spy Discovered",
+        "logContent": "Security uncovered a Romulan spy aboard the Enterprise NX-01. Captain Jonathan Archer oversaw the investigation and ensured ship security.",
+        "date": "2075-10-05",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 21591
+      }
+    ]
+  },
+  {
+    "captainName": "John T. Kirk",
+    "captainImage": "james_t_kirk.jpg",
+    "shipName": "USS Enterprise",
+    "shipImage": "USS_Enterprise.webp",
+    "lastCrisisDate": "2022-01-12",
+    "logs": [
+      {
+        "id": "james_t_kirk_1",
+        "location": "Remus",
+        "logTitle": "Crew Member Disciplined",
+        "logContent": "A crew member was disciplined for violating protocol. Captain John T. Kirk held a counseling session.",
+        "date": "2075-08-17",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 19575
+      },
+      {
+        "id": "james_t_kirk_2",
+        "location": "Vega Colony",
+        "logTitle": "Crew Member Returns from Leave",
+        "logContent": "A crew member returned from extended leave. Captain John T. Kirk welcomed them back aboard.",
+        "date": "2075-08-18",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 19576
+      },
+      {
+        "id": "james_t_kirk_3",
+        "location": "Tarchannen III",
+        "logTitle": "Alien Virus Neutralized",
+        "logContent": "An alien virus was neutralized by medical staff. Captain John T. Kirk praised their quick action.",
+        "date": "2075-08-19",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 19577
+      },
+      {
+        "id": "james_t_kirk_4",
+        "location": "Earth",
+        "logTitle": "Alien Ambassador Onboard",
+        "logContent": "An alien ambassador boarded the USS Enterprise for negotiations. Captain John T. Kirk ensured their comfort.",
+        "date": "2075-08-20",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 19578
+      },
+      {
+        "id": "james_t_kirk_5",
+        "location": "Qo'noS",
+        "logTitle": "New Warp Record Set",
+        "logContent": "The USS Enterprise set a new warp speed record. Captain John T. Kirk congratulated the engineering team.",
+        "date": "2075-08-21",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 19579
+      },
+      {
+        "id": "james_t_kirk_6",
+        "location": "Rigel VII",
+        "logTitle": "New Shuttlecraft Commissioned",
+        "logContent": "A new shuttlecraft was commissioned. Captain John T. Kirk attended the launch ceremony.",
+        "date": "2075-08-22",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 19580
+      },
+      {
+        "id": "james_t_kirk_7",
+        "location": "Vega Colony",
+        "logTitle": "Subspace Anomaly Investigation",
+        "logContent": "A subspace anomaly was detected. Captain John T. Kirk ordered a science team to investigate.",
+        "date": "2075-08-23",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 19581
+      },
+      {
+        "id": "james_t_kirk_8",
+        "location": "Mars",
+        "logTitle": "Crew Exchange Program",
+        "logContent": "A crew exchange program with another Federation ship began. Captain John T. Kirk welcomed new officers.",
+        "date": "2075-08-24",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 19582
+      },
+      {
+        "id": "james_t_kirk_9",
+        "location": "Bajor Wormhole",
+        "logTitle": "Star Chart Updated",
+        "logContent": "The ship's star charts were updated with new data. Captain John T. Kirk reviewed the changes.",
+        "date": "2075-08-25",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 19583
+      },
+      {
+        "id": "james_t_kirk_10",
+        "location": "Nimbus III",
+        "logTitle": "Crew Member Court-Martialed",
+        "logContent": "A crew member was court-martialed for misconduct. Captain John T. Kirk presided over the proceedings.",
+        "date": "2075-08-26",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 19584
+      },
+      {
+        "id": "james_t_kirk_11",
+        "location": "New Vulcan",
+        "logTitle": "Alien Infiltrator Exposed",
+        "logContent": "An alien infiltrator was exposed by security. Captain John T. Kirk led the debriefing.",
+        "date": "2075-08-27",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 19585
+      },
+      {
+        "id": "james_t_kirk_12",
+        "location": "Risa",
+        "logTitle": "Crew Quarantine Lifted",
+        "logContent": "A shipwide quarantine was lifted after medical clearance. Captain John T. Kirk thanked the medical staff.",
+        "date": "2075-08-28",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 19586
+      },
+      {
+        "id": "james_t_kirk_13",
+        "location": "Nimbus III",
+        "logTitle": "Crew Member Wedding",
+        "logContent": "A wedding was held in the arboretum. Captain John T. Kirk officiated the ceremony.",
+        "date": "2075-08-29",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 19587
+      },
+      {
+        "id": "james_t_kirk_14",
+        "location": "Deep Space Nine",
+        "logTitle": "Crew Exchange Program",
+        "logContent": "A crew exchange program with another Federation ship began. Captain John T. Kirk welcomed new officers.",
+        "date": "2075-08-30",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 19588
+      },
+      {
+        "id": "james_t_kirk_15",
+        "location": "Utopia Planitia",
+        "logTitle": "Ion Storm Approaching",
+        "logContent": "An ion storm is approaching. Captain John T. Kirk ordered all decks to secure for heavy turbulence.",
+        "date": "2075-08-31",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 19589
+      },
+      {
+        "id": "james_t_kirk_16",
+        "location": "Remus",
+        "logTitle": "Cargo Bay Fire",
+        "logContent": "A fire broke out in the cargo bay. Captain John T. Kirk coordinated firefighting efforts.",
+        "date": "2075-09-01",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 19590
+      },
+      {
+        "id": "james_t_kirk_17",
+        "location": "Utopia Planitia",
+        "logTitle": "Nebula Survey Mission",
+        "logContent": "The USS Enterprise conducted a detailed survey of a nearby nebula. Captain John T. Kirk praised the science department for their thorough work.",
+        "date": "2075-09-02",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 19591
+      },
+      {
+        "id": "james_t_kirk_18",
+        "location": "Sector 001",
+        "logTitle": "Crew Member Wedding",
+        "logContent": "A wedding was held in the arboretum. Captain John T. Kirk officiated the ceremony.",
+        "date": "2075-09-03",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 19592
+      },
+      {
+        "id": "james_t_kirk_19",
+        "location": "Tarchannen III",
+        "logTitle": "Sensor Ghosts Detected",
+        "logContent": "Unexplained sensor ghosts appeared on long-range scans. Captain John T. Kirk ordered a full diagnostic.",
+        "date": "2075-09-04",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 19593
+      },
+      {
+        "id": "james_t_kirk_20",
+        "location": "Ekos",
+        "logTitle": "Shore Leave on Risa",
+        "logContent": "Crew morale was boosted by a brief shore leave on Risa. Captain John T. Kirk authorized recreational activities for all off-duty personnel.",
+        "date": "2075-09-05",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 19594
+      },
+      {
+        "id": "james_t_kirk_21",
+        "location": "Sigma Iotia II",
+        "logTitle": "Diplomatic Incident on Bajor",
+        "logContent": "A diplomatic incident on Bajor required Captain John T. Kirk's intervention to prevent escalation.",
+        "date": "2075-09-06",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 19595
+      },
+      {
+        "id": "james_t_kirk_22",
+        "location": "Zeta Alpha",
+        "logTitle": "Medical Supply Shortage",
+        "logContent": "A medical supply shortage required rationing. Captain John T. Kirk coordinated with Starfleet Command.",
+        "date": "2075-09-07",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 19596
+      },
+      {
+        "id": "james_t_kirk_23",
+        "location": "Ceti Alpha V",
+        "logTitle": "Alien Virus Neutralized",
+        "logContent": "An alien virus was neutralized by medical staff. Captain John T. Kirk praised their quick action.",
+        "date": "2075-09-08",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 19597
+      },
+      {
+        "id": "james_t_kirk_24",
+        "location": "Janus VI",
+        "logTitle": "Ion Storm Approaching",
+        "logContent": "An ion storm is approaching. Captain John T. Kirk ordered all decks to secure for heavy turbulence.",
+        "date": "2075-09-09",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 19598
+      },
+      {
+        "id": "james_t_kirk_25",
+        "location": "Deep Space Twelve",
+        "logTitle": "Plasma Leak in Engineering",
+        "logContent": "A plasma leak in engineering was quickly contained. Captain John T. Kirk praised the engineering team.",
+        "date": "2075-09-10",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 19599
+      },
+      {
+        "id": "james_t_kirk_26",
+        "location": "Argelius II",
+        "logTitle": "Rescue Operation at Cardassia",
+        "logContent": "A distress call from Cardassia prompted a rescue mission. Captain John T. Kirk led an away team to assist survivors.",
+        "date": "2075-09-11",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 19600
+      },
+      {
+        "id": "james_t_kirk_27",
+        "location": "Breen Space",
+        "logTitle": "Crew Member Recovered",
+        "logContent": "A missing crew member was recovered safely. Captain John T. Kirk commended the search team.",
+        "date": "2075-09-12",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 19601
+      },
+      {
+        "id": "james_t_kirk_28",
+        "location": "Utopia Planitia",
+        "logTitle": "Alien Technology Integrated",
+        "logContent": "Alien technology was integrated into the USS Enterprise's systems. Captain John T. Kirk oversaw the process.",
+        "date": "2075-09-13",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 19602
+      },
+      {
+        "id": "james_t_kirk_29",
+        "location": "Deep Space Nine",
+        "logTitle": "Alien Relic Discovered",
+        "logContent": "An alien relic was discovered on an away mission. Captain John T. Kirk ordered it brought aboard for study.",
+        "date": "2075-09-14",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 19603
+      },
+      {
+        "id": "james_t_kirk_30",
+        "location": "DS9",
+        "logTitle": "Starbase Docking",
+        "logContent": "The USS Enterprise docked at a Federation starbase for resupply and crew rotation.",
+        "date": "2075-09-15",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 19604
+      },
+      {
+        "id": "james_t_kirk_31",
+        "location": "Zeta Alpha",
+        "logTitle": "Alien Delegation Arrives",
+        "logContent": "An alien delegation arrived for peace talks. Captain John T. Kirk welcomed them aboard the USS Enterprise.",
+        "date": "2075-09-16",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 19605
+      },
+      {
+        "id": "james_t_kirk_32",
+        "location": "Alpha Centauri",
+        "logTitle": "Alien Technology Integrated",
+        "logContent": "Alien technology was integrated into the USS Enterprise's systems. Captain John T. Kirk oversaw the process.",
+        "date": "2075-09-17",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 19606
+      },
+      {
+        "id": "james_t_kirk_33",
+        "location": "Sherman’s Planet",
+        "logTitle": "Diplomatic Incident on Bajor",
+        "logContent": "A diplomatic incident on Bajor required Captain John T. Kirk's intervention to prevent escalation.",
+        "date": "2075-09-18",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 19607
+      },
+      {
+        "id": "james_t_kirk_34",
+        "location": "Deep Space Twelve",
+        "logTitle": "Alien Pet Onboard",
+        "logContent": "A crew member adopted an alien pet. Captain John T. Kirk approved after a medical scan.",
+        "date": "2075-09-19",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 19608
+      },
+      {
+        "id": "james_t_kirk_35",
+        "location": "Nimbus III",
+        "logTitle": "Crew Member Wedding",
+        "logContent": "A wedding was held in the arboretum. Captain John T. Kirk officiated the ceremony.",
+        "date": "2075-09-20",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 19609
+      },
+      {
+        "id": "james_t_kirk_36",
+        "location": "Vulcan Forge",
+        "logTitle": "Alien Festival Celebrated",
+        "logContent": "The crew celebrated an alien festival. Captain John T. Kirk participated in the festivities.",
+        "date": "2075-09-21",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 19610
+      },
+      {
+        "id": "james_t_kirk_37",
+        "location": "Earth",
+        "logTitle": "Shore Leave on Risa",
+        "logContent": "Crew morale was boosted by a brief shore leave on Risa. Captain John T. Kirk authorized recreational activities for all off-duty personnel.",
+        "date": "2075-09-22",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 19611
+      },
+      {
+        "id": "james_t_kirk_38",
+        "location": "Delta Vega",
+        "logTitle": "Borg Cube Encounter",
+        "logContent": "Sensors detected a Borg cube in the sector. Captain John T. Kirk initiated evasive maneuvers and prepared the USS Enterprise for possible engagement.",
+        "date": "2075-09-23",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 19612
+      },
+      {
+        "id": "james_t_kirk_39",
+        "location": "Rura Penthe",
+        "logTitle": "Crew Member Missing",
+        "logContent": "A crew member was reported missing. Captain John T. Kirk initiated a shipwide search.",
+        "date": "2075-09-24",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 19613
+      },
+      {
+        "id": "james_t_kirk_40",
+        "location": "Ceti Alpha V",
+        "logTitle": "Medical Supply Shortage",
+        "logContent": "A medical supply shortage required rationing. Captain John T. Kirk coordinated with Starfleet Command.",
+        "date": "2075-09-25",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 19614
+      },
+      {
+        "id": "james_t_kirk_41",
+        "location": "Zeta Alpha",
+        "logTitle": "Crew Talent Show",
+        "logContent": "A crew talent show was held to boost morale. Captain John T. Kirk participated as a judge.",
+        "date": "2075-09-26",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 19615
+      },
+      {
+        "id": "james_t_kirk_42",
+        "location": "Argelius II",
+        "logTitle": "Diplomatic Mission to Vulcan",
+        "logContent": "The USS Enterprise arrived at Vulcan for a high-level diplomatic summit. Captain John T. Kirk met with Vulcan officials to discuss Federation policy.",
+        "date": "2075-09-27",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 19616
+      },
+      {
+        "id": "james_t_kirk_43",
+        "location": "Dytallix B",
+        "logTitle": "Computer Core Upgrade",
+        "logContent": "The USS Enterprise's computer core was upgraded. Captain John T. Kirk oversaw the process to ensure security.",
+        "date": "2075-09-28",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 19617
+      },
+      {
+        "id": "james_t_kirk_44",
+        "location": "Gamma Quadrant",
+        "logTitle": "Crew Talent Show",
+        "logContent": "A crew talent show was held to boost morale. Captain John T. Kirk participated as a judge.",
+        "date": "2075-09-29",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 19618
+      },
+      {
+        "id": "james_t_kirk_45",
+        "location": "New Berlin",
+        "logTitle": "Crew Member Disciplined",
+        "logContent": "A crew member was disciplined for violating protocol. Captain John T. Kirk held a counseling session.",
+        "date": "2075-09-30",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 19619
+      },
+      {
+        "id": "james_t_kirk_46",
+        "location": "Utopia Planitia",
+        "logTitle": "Sabotage Attempt Foiled",
+        "logContent": "A sabotage attempt was foiled by security. Captain John T. Kirk commended the quick response.",
+        "date": "2075-10-01",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 19620
+      },
+      {
+        "id": "james_t_kirk_47",
+        "location": "Orion",
+        "logTitle": "Temporal Anomaly Detected",
+        "logContent": "A temporal rift appeared off the port bow. The USS Enterprise science team is investigating. Captain John T. Kirk has ordered yellow alert.",
+        "date": "2075-10-02",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 19621
+      },
+      {
+        "id": "james_t_kirk_48",
+        "location": "Vulcan",
+        "logTitle": "Diplomatic Mission to Vulcan",
+        "logContent": "The USS Enterprise arrived at Vulcan for a high-level diplomatic summit. Captain John T. Kirk met with Vulcan officials to discuss Federation policy.",
+        "date": "2075-10-03",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 19622
+      },
+      {
+        "id": "james_t_kirk_49",
+        "location": "The Badlands",
+        "logTitle": "Ion Storm Approaching",
+        "logContent": "An ion storm is approaching. Captain John T. Kirk ordered all decks to secure for heavy turbulence.",
+        "date": "2075-10-04",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 19623
+      },
+      {
+        "id": "james_t_kirk_50",
+        "location": "New Berlin",
+        "logTitle": "Alien Technology Integrated",
+        "logContent": "Alien technology was integrated into the USS Enterprise's systems. Captain John T. Kirk oversaw the process.",
+        "date": "2075-10-05",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 19624
+      }
+    ]
+  },
+  {
+    "captainName": "Michael Burnham",
+    "captainImage": "michael_burnham.jpg",
+    "shipName": "USS Discovery",
+    "shipImage": "USS_Discovery.webp",
+    "lastCrisisDate": "2021-02-25",
+    "logs": [
+      {
+        "id": "michael_burnham_1",
+        "location": "Risa",
+        "logTitle": "Crew Member Injured",
+        "logContent": "A crew member was injured during a holodeck simulation. Captain Michael Burnham visited them in sickbay.",
+        "date": "2075-08-17",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 19896
+      },
+      {
+        "id": "michael_burnham_2",
+        "location": "Galorndon Core",
+        "logTitle": "Asteroid Field Navigation",
+        "logContent": "The USS Discovery successfully navigated a dense asteroid field. Captain Michael Burnham praised the helm officer's skill.",
+        "date": "2075-08-18",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 19897
+      },
+      {
+        "id": "michael_burnham_3",
+        "location": "Cardassia",
+        "logTitle": "Alien Ship Salvaged",
+        "logContent": "An alien ship was salvaged for study. Captain Michael Burnham authorized the operation.",
+        "date": "2075-08-19",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 19898
+      },
+      {
+        "id": "michael_burnham_4",
+        "location": "Risa",
+        "logTitle": "Crew Member Disciplined",
+        "logContent": "A crew member was disciplined for violating protocol. Captain Michael Burnham held a counseling session.",
+        "date": "2075-08-20",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 19899
+      },
+      {
+        "id": "michael_burnham_5",
+        "location": "Tellar",
+        "logTitle": "New Shuttlecraft Commissioned",
+        "logContent": "A new shuttlecraft was commissioned. Captain Michael Burnham attended the launch ceremony.",
+        "date": "2075-08-21",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 19900
+      },
+      {
+        "id": "michael_burnham_6",
+        "location": "Genesis Planet",
+        "logTitle": "Holodeck Malfunction",
+        "logContent": "A holodeck malfunction trapped several crew members in a simulation. Captain Michael Burnham coordinated the rescue operation.",
+        "date": "2075-08-22",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 19901
+      },
+      {
+        "id": "michael_burnham_7",
+        "location": "New Vulcan",
+        "logTitle": "Shuttlecraft Lost",
+        "logContent": "A shuttlecraft was reported missing during a routine survey. Captain Michael Burnham organized a search and rescue operation.",
+        "date": "2075-08-23",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 19902
+      },
+      {
+        "id": "michael_burnham_8",
+        "location": "New Berlin",
+        "logTitle": "Plasma Leak in Engineering",
+        "logContent": "A plasma leak in engineering was quickly contained. Captain Michael Burnham praised the engineering team.",
+        "date": "2075-08-24",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 19903
+      },
+      {
+        "id": "michael_burnham_9",
+        "location": "Mirror Universe",
+        "logTitle": "Medical Emergency: Unknown Virus",
+        "logContent": "An unknown virus spread among the crew. Medical teams worked around the clock. Captain Michael Burnham ordered quarantine protocols.",
+        "date": "2075-08-25",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 19904
+      },
+      {
+        "id": "michael_burnham_10",
+        "location": "Betazed",
+        "logTitle": "Crew Member Reassigned",
+        "logContent": "A crew member was reassigned to another post. Captain Michael Burnham held a transfer ceremony.",
+        "date": "2075-08-26",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 19905
+      },
+      {
+        "id": "michael_burnham_11",
+        "location": "Iconia",
+        "logTitle": "Diplomatic Incident on Bajor",
+        "logContent": "A diplomatic incident on Bajor required Captain Michael Burnham's intervention to prevent escalation.",
+        "date": "2075-08-27",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 19906
+      },
+      {
+        "id": "michael_burnham_12",
+        "location": "DS9",
+        "logTitle": "Mutiny Attempt Thwarted",
+        "logContent": "A small group of crew attempted a mutiny. Captain Michael Burnham restored order and addressed the crew's grievances.",
+        "date": "2075-08-28",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 19907
+      },
+      {
+        "id": "michael_burnham_13",
+        "location": "Vulcan Forge",
+        "logTitle": "Alien Ship Salvaged",
+        "logContent": "An alien ship was salvaged for study. Captain Michael Burnham authorized the operation.",
+        "date": "2075-08-29",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 19908
+      },
+      {
+        "id": "michael_burnham_14",
+        "location": "Bajor",
+        "logTitle": "Crew Quarantine Lifted",
+        "logContent": "A shipwide quarantine was lifted after medical clearance. Captain Michael Burnham thanked the medical staff.",
+        "date": "2075-08-30",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 19909
+      },
+      {
+        "id": "michael_burnham_15",
+        "location": "DS9",
+        "logTitle": "Diplomatic Incident on Bajor",
+        "logContent": "A diplomatic incident on Bajor required Captain Michael Burnham's intervention to prevent escalation.",
+        "date": "2075-08-31",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 19910
+      },
+      {
+        "id": "michael_burnham_16",
+        "location": "Vulcan Forge",
+        "logTitle": "Alien Ambassador Onboard",
+        "logContent": "An alien ambassador boarded the USS Discovery for negotiations. Captain Michael Burnham ensured their comfort.",
+        "date": "2075-09-01",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 19911
+      },
+      {
+        "id": "michael_burnham_17",
+        "location": "Trill",
+        "logTitle": "Computer Core Upgrade",
+        "logContent": "The USS Discovery's computer core was upgraded. Captain Michael Burnham oversaw the process to ensure security.",
+        "date": "2075-09-02",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 19912
+      },
+      {
+        "id": "michael_burnham_18",
+        "location": "Tellar",
+        "logTitle": "Crew Member Receives Medal",
+        "logContent": "A crew member received a Starfleet medal. Captain Michael Burnham presented the award in a ceremony.",
+        "date": "2075-09-03",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 19913
+      },
+      {
+        "id": "michael_burnham_19",
+        "location": "Genesis Planet",
+        "logTitle": "Crew Member Awarded Leave",
+        "logContent": "A crew member was awarded extended leave. Captain Michael Burnham approved the request.",
+        "date": "2075-09-04",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 19914
+      },
+      {
+        "id": "michael_burnham_20",
+        "location": "Gamma Quadrant",
+        "logTitle": "Star Chart Updated",
+        "logContent": "The ship's star charts were updated with new data. Captain Michael Burnham reviewed the changes.",
+        "date": "2075-09-05",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 19915
+      },
+      {
+        "id": "michael_burnham_21",
+        "location": "Genesis Planet",
+        "logTitle": "Alien Infiltrator Exposed",
+        "logContent": "An alien infiltrator was exposed by security. Captain Michael Burnham led the debriefing.",
+        "date": "2075-09-06",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 19916
+      },
+      {
+        "id": "michael_burnham_22",
+        "location": "Betazed",
+        "logTitle": "Diplomatic Mission to Vulcan",
+        "logContent": "The USS Discovery arrived at Vulcan for a high-level diplomatic summit. Captain Michael Burnham met with Vulcan officials to discuss Federation policy.",
+        "date": "2075-09-07",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 19917
+      },
+      {
+        "id": "michael_burnham_23",
+        "location": "Bajor Wormhole",
+        "logTitle": "Asteroid Field Navigation",
+        "logContent": "The USS Discovery successfully navigated a dense asteroid field. Captain Michael Burnham praised the helm officer's skill.",
+        "date": "2075-09-08",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 19918
+      },
+      {
+        "id": "michael_burnham_24",
+        "location": "Janus VI",
+        "logTitle": "Klingon Border Tensions",
+        "logContent": "The USS Discovery was dispatched to the Klingon border after reports of increased tensions. Captain Michael Burnham is monitoring the situation closely.",
+        "date": "2075-09-09",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 19919
+      },
+      {
+        "id": "michael_burnham_25",
+        "location": "Tarchannen III",
+        "logTitle": "Shuttlecraft Lost",
+        "logContent": "A shuttlecraft was reported missing during a routine survey. Captain Michael Burnham organized a search and rescue operation.",
+        "date": "2075-09-10",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 19920
+      },
+      {
+        "id": "michael_burnham_26",
+        "location": "Trill",
+        "logTitle": "First Officer Commendation",
+        "logContent": "The first officer was commended for exemplary service. Captain Michael Burnham made a formal entry in the ship's log.",
+        "date": "2075-09-11",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 19921
+      },
+      {
+        "id": "michael_burnham_27",
+        "location": "Vulcan",
+        "logTitle": "Crew Member Disciplined",
+        "logContent": "A crew member was disciplined for violating protocol. Captain Michael Burnham held a counseling session.",
+        "date": "2075-09-12",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 19922
+      },
+      {
+        "id": "michael_burnham_28",
+        "location": "Breen Space",
+        "logTitle": "Subspace Distress Signal",
+        "logContent": "The USS Discovery received a subspace distress signal from a nearby colony. Captain Michael Burnham diverted course to investigate.",
+        "date": "2075-09-13",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 19923
+      },
+      {
+        "id": "michael_burnham_29",
+        "location": "Bajor Wormhole",
+        "logTitle": "Crew Exchange Program",
+        "logContent": "A crew exchange program with another Federation ship began. Captain Michael Burnham welcomed new officers.",
+        "date": "2075-09-14",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 19924
+      },
+      {
+        "id": "michael_burnham_30",
+        "location": "Tzenkethi",
+        "logTitle": "Alien Technology Integrated",
+        "logContent": "Alien technology was integrated into the USS Discovery's systems. Captain Michael Burnham oversaw the process.",
+        "date": "2075-09-15",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 19925
+      },
+      {
+        "id": "michael_burnham_31",
+        "location": "Ferenginar",
+        "logTitle": "Star System Charted",
+        "logContent": "A new star system was charted. Captain Michael Burnham logged the discovery.",
+        "date": "2075-09-16",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 19926
+      },
+      {
+        "id": "michael_burnham_32",
+        "location": "Jupiter Station",
+        "logTitle": "Ion Storm Approaching",
+        "logContent": "An ion storm is approaching. Captain Michael Burnham ordered all decks to secure for heavy turbulence.",
+        "date": "2075-09-17",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 19927
+      },
+      {
+        "id": "michael_burnham_33",
+        "location": "Cardassia",
+        "logTitle": "Replicator Malfunction",
+        "logContent": "Replicators malfunctioned, causing food shortages. Captain Michael Burnham coordinated repairs and rationing.",
+        "date": "2075-09-18",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 19928
+      },
+      {
+        "id": "michael_burnham_34",
+        "location": "Deep Space Nine",
+        "logTitle": "Subspace Distress Signal",
+        "logContent": "The USS Discovery received a subspace distress signal from a nearby colony. Captain Michael Burnham diverted course to investigate.",
+        "date": "2075-09-19",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 19929
+      },
+      {
+        "id": "michael_burnham_35",
+        "location": "Nimbus III",
+        "logTitle": "Nebula Survey Mission",
+        "logContent": "The USS Discovery conducted a detailed survey of a nearby nebula. Captain Michael Burnham praised the science department for their thorough work.",
+        "date": "2075-09-20",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 19930
+      },
+      {
+        "id": "michael_burnham_36",
+        "location": "DS9",
+        "logTitle": "Alien Ambassador Onboard",
+        "logContent": "An alien ambassador boarded the USS Discovery for negotiations. Captain Michael Burnham ensured their comfort.",
+        "date": "2075-09-21",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 19931
+      },
+      {
+        "id": "michael_burnham_37",
+        "location": "Xindi Prime",
+        "logTitle": "Crew Exchange Program",
+        "logContent": "A crew exchange program with another Federation ship began. Captain Michael Burnham welcomed new officers.",
+        "date": "2075-09-22",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 19932
+      },
+      {
+        "id": "michael_burnham_38",
+        "location": "Tzenkethi",
+        "logTitle": "Meteor Shower Observation",
+        "logContent": "The USS Discovery observed a rare meteor shower. Captain Michael Burnham invited the crew to the observation lounge.",
+        "date": "2075-09-23",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 19933
+      },
+      {
+        "id": "michael_burnham_39",
+        "location": "Delta Vega",
+        "logTitle": "Crew Member Receives Medal",
+        "logContent": "A crew member received a Starfleet medal. Captain Michael Burnham presented the award in a ceremony.",
+        "date": "2075-09-24",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 19934
+      },
+      {
+        "id": "michael_burnham_40",
+        "location": "Vulcan Forge",
+        "logTitle": "Alien Virus Neutralized",
+        "logContent": "An alien virus was neutralized by medical staff. Captain Michael Burnham praised their quick action.",
+        "date": "2075-09-25",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 19935
+      },
+      {
+        "id": "michael_burnham_41",
+        "location": "Romulus",
+        "logTitle": "New Warp Record Set",
+        "logContent": "The USS Discovery set a new warp speed record. Captain Michael Burnham congratulated the engineering team.",
+        "date": "2075-09-26",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 19936
+      },
+      {
+        "id": "michael_burnham_42",
+        "location": "Nimbus III",
+        "logTitle": "Alien Artifact Recovered",
+        "logContent": "An alien artifact was recovered from a derelict vessel. Captain Michael Burnham ordered it transferred to the science lab for study.",
+        "date": "2075-09-27",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 19937
+      },
+      {
+        "id": "michael_burnham_43",
+        "location": "Tzenkethi",
+        "logTitle": "Transporter Accident",
+        "logContent": "A transporter malfunction resulted in a minor injury. Captain Michael Burnham ordered a full diagnostic of the system.",
+        "date": "2075-09-28",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 19938
+      },
+      {
+        "id": "michael_burnham_44",
+        "location": "Xindi Prime",
+        "logTitle": "Medical Supply Shortage",
+        "logContent": "A medical supply shortage required rationing. Captain Michael Burnham coordinated with Starfleet Command.",
+        "date": "2075-09-29",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 19939
+      },
+      {
+        "id": "michael_burnham_45",
+        "location": "Qo'noS",
+        "logTitle": "Crew Member Wedding",
+        "logContent": "A wedding was held in the arboretum. Captain Michael Burnham officiated the ceremony.",
+        "date": "2075-09-30",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 19940
+      },
+      {
+        "id": "michael_burnham_46",
+        "location": "Vega Colony",
+        "logTitle": "Replicator Malfunction",
+        "logContent": "Replicators malfunctioned, causing food shortages. Captain Michael Burnham coordinated repairs and rationing.",
+        "date": "2075-10-01",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 19941
+      },
+      {
+        "id": "michael_burnham_47",
+        "location": "Bajor Wormhole",
+        "logTitle": "Shuttlecraft Lost",
+        "logContent": "A shuttlecraft was reported missing during a routine survey. Captain Michael Burnham organized a search and rescue operation.",
+        "date": "2075-10-02",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 19942
+      },
+      {
+        "id": "michael_burnham_48",
+        "location": "Orion",
+        "logTitle": "Alien Artifact Recovered",
+        "logContent": "An alien artifact was recovered from a derelict vessel. Captain Michael Burnham ordered it transferred to the science lab for study.",
+        "date": "2075-10-03",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 19943
+      },
+      {
+        "id": "michael_burnham_49",
+        "location": "Starbase 375",
+        "logTitle": "Alien Ambassador Onboard",
+        "logContent": "An alien ambassador boarded the USS Discovery for negotiations. Captain Michael Burnham ensured their comfort.",
+        "date": "2075-10-04",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 19944
+      },
+      {
+        "id": "michael_burnham_50",
+        "location": "Delta Quadrant",
+        "logTitle": "Alien Plant Studied",
+        "logContent": "An alien plant was studied in the science lab. Captain Michael Burnham authorized further research.",
+        "date": "2075-10-05",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 19945
+      }
+    ]
+  },
+  {
+    "captainName": "Christopher Pike",
+    "captainImage": "christopher_pike.jpg",
+    "shipName": "USS Discovery",
+    "shipImage": "USS_Discovery.webp",
+    "lastCrisisDate": "2022-06-18",
+    "logs": [
+      {
+        "id": "christopher_pike_1",
+        "location": "Deep Space Twelve",
+        "logTitle": "Crew Member Disciplined",
+        "logContent": "A crew member was disciplined for violating protocol. Captain Christopher Pike held a counseling session.",
+        "date": "2075-08-17",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 19418
+      },
+      {
+        "id": "christopher_pike_2",
+        "location": "Gamma Quadrant",
+        "logTitle": "Crew Talent Show",
+        "logContent": "A crew talent show was held to boost morale. Captain Christopher Pike participated as a judge.",
+        "date": "2075-08-18",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 19419
+      },
+      {
+        "id": "christopher_pike_3",
+        "location": "Utopia Planitia",
+        "logTitle": "Crew Member Retires",
+        "logContent": "A long-serving crew member retired. Captain Christopher Pike gave a farewell address.",
+        "date": "2075-08-19",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 19420
+      },
+      {
+        "id": "christopher_pike_4",
+        "location": "Cardassia",
+        "logTitle": "Replicator Malfunction",
+        "logContent": "Replicators malfunctioned, causing food shortages. Captain Christopher Pike coordinated repairs and rationing.",
+        "date": "2075-08-20",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 19421
+      },
+      {
+        "id": "christopher_pike_5",
+        "location": "Cardassia",
+        "logTitle": "Crew Member Injured",
+        "logContent": "A crew member was injured during a holodeck simulation. Captain Christopher Pike visited them in sickbay.",
+        "date": "2075-08-21",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 19422
+      },
+      {
+        "id": "christopher_pike_6",
+        "location": "Deep Space Nine",
+        "logTitle": "Alien Artifact Recovered",
+        "logContent": "An alien artifact was recovered from a derelict vessel. Captain Christopher Pike ordered it transferred to the science lab for study.",
+        "date": "2075-08-22",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 19423
+      },
+      {
+        "id": "christopher_pike_7",
+        "location": "Romulus",
+        "logTitle": "Rescue Operation at Cardassia",
+        "logContent": "A distress call from Cardassia prompted a rescue mission. Captain Christopher Pike led an away team to assist survivors.",
+        "date": "2075-08-23",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 19424
+      },
+      {
+        "id": "christopher_pike_8",
+        "location": "Tzenkethi",
+        "logTitle": "Crew Talent Show",
+        "logContent": "A crew talent show was held to boost morale. Captain Christopher Pike participated as a judge.",
+        "date": "2075-08-24",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 19425
+      },
+      {
+        "id": "christopher_pike_9",
+        "location": "Nimbus System",
+        "logTitle": "Medical Supply Shortage",
+        "logContent": "A medical supply shortage required rationing. Captain Christopher Pike coordinated with Starfleet Command.",
+        "date": "2075-08-25",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 19426
+      },
+      {
+        "id": "christopher_pike_10",
+        "location": "DS9",
+        "logTitle": "Crew Member Promoted",
+        "logContent": "A crew member was promoted for outstanding service. Captain Christopher Pike held a ceremony in the main lounge.",
+        "date": "2075-08-26",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 19427
+      },
+      {
+        "id": "christopher_pike_11",
+        "location": "Mutara Nebula",
+        "logTitle": "New Warp Record Set",
+        "logContent": "The USS Discovery set a new warp speed record. Captain Christopher Pike congratulated the engineering team.",
+        "date": "2075-08-27",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 19428
+      },
+      {
+        "id": "christopher_pike_12",
+        "location": "Deep Space Twelve",
+        "logTitle": "Security Drill",
+        "logContent": "A shipwide security drill was conducted. Captain Christopher Pike reviewed the crew's performance.",
+        "date": "2075-08-28",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 19429
+      },
+      {
+        "id": "christopher_pike_13",
+        "location": "Romulus",
+        "logTitle": "Alien Delegation Arrives",
+        "logContent": "An alien delegation arrived for peace talks. Captain Christopher Pike welcomed them aboard the USS Discovery.",
+        "date": "2075-08-29",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 19430
+      },
+      {
+        "id": "christopher_pike_14",
+        "location": "Vulcan Forge",
+        "logTitle": "Crew Quarantine Lifted",
+        "logContent": "A shipwide quarantine was lifted after medical clearance. Captain Christopher Pike thanked the medical staff.",
+        "date": "2075-08-30",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 19431
+      },
+      {
+        "id": "christopher_pike_15",
+        "location": "Mutara Nebula",
+        "logTitle": "Crew Quarantine Lifted",
+        "logContent": "A shipwide quarantine was lifted after medical clearance. Captain Christopher Pike thanked the medical staff.",
+        "date": "2075-08-31",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 19432
+      },
+      {
+        "id": "christopher_pike_16",
+        "location": "Ferenginar",
+        "logTitle": "Subspace Relay Failure",
+        "logContent": "A subspace relay failure disrupted communications. Captain Christopher Pike ordered repairs and status updates.",
+        "date": "2075-09-01",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 19433
+      },
+      {
+        "id": "christopher_pike_17",
+        "location": "Risa",
+        "logTitle": "Mutiny Attempt Thwarted",
+        "logContent": "A small group of crew attempted a mutiny. Captain Christopher Pike restored order and addressed the crew's grievances.",
+        "date": "2075-09-02",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 19434
+      },
+      {
+        "id": "christopher_pike_18",
+        "location": "Starbase 1",
+        "logTitle": "Diplomatic Gift Exchanged",
+        "logContent": "A diplomatic gift was exchanged with a visiting delegation. Captain Christopher Pike presented the gift on behalf of Starfleet.",
+        "date": "2075-09-03",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 19435
+      },
+      {
+        "id": "christopher_pike_19",
+        "location": "Bajor",
+        "logTitle": "Crew Member Receives Promotion",
+        "logContent": "A crew member received a promotion for exemplary service. Captain Christopher Pike presented the new rank.",
+        "date": "2075-09-04",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 19436
+      },
+      {
+        "id": "christopher_pike_20",
+        "location": "Ferenginar",
+        "logTitle": "Asteroid Field Navigation",
+        "logContent": "The USS Discovery successfully navigated a dense asteroid field. Captain Christopher Pike praised the helm officer's skill.",
+        "date": "2075-09-05",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 19437
+      },
+      {
+        "id": "christopher_pike_21",
+        "location": "The Briar Patch",
+        "logTitle": "Alien Plant Studied",
+        "logContent": "An alien plant was studied in the science lab. Captain Christopher Pike authorized further research.",
+        "date": "2075-09-06",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 19438
+      },
+      {
+        "id": "christopher_pike_22",
+        "location": "Rura Penthe",
+        "logTitle": "Shuttlecraft Lost",
+        "logContent": "A shuttlecraft was reported missing during a routine survey. Captain Christopher Pike organized a search and rescue operation.",
+        "date": "2075-09-07",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 19439
+      },
+      {
+        "id": "christopher_pike_23",
+        "location": "The Badlands",
+        "logTitle": "Crew Member Returns from Leave",
+        "logContent": "A crew member returned from extended leave. Captain Christopher Pike welcomed them back aboard.",
+        "date": "2075-09-08",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 19440
+      },
+      {
+        "id": "christopher_pike_24",
+        "location": "Earth",
+        "logTitle": "Alien Festival Celebrated",
+        "logContent": "The crew celebrated an alien festival. Captain Christopher Pike participated in the festivities.",
+        "date": "2075-09-09",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 19441
+      },
+      {
+        "id": "christopher_pike_25",
+        "location": "New Berlin",
+        "logTitle": "Alien Ambassador Onboard",
+        "logContent": "An alien ambassador boarded the USS Discovery for negotiations. Captain Christopher Pike ensured their comfort.",
+        "date": "2075-09-10",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 19442
+      },
+      {
+        "id": "christopher_pike_26",
+        "location": "Nimbus System",
+        "logTitle": "Crew Member Disciplined",
+        "logContent": "A crew member was disciplined for violating protocol. Captain Christopher Pike held a counseling session.",
+        "date": "2075-09-11",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 19443
+      },
+      {
+        "id": "christopher_pike_27",
+        "location": "Tellar",
+        "logTitle": "Alien Ambassador Onboard",
+        "logContent": "An alien ambassador boarded the USS Discovery for negotiations. Captain Christopher Pike ensured their comfort.",
+        "date": "2075-09-12",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 19444
+      },
+      {
+        "id": "christopher_pike_28",
+        "location": "New Vulcan",
+        "logTitle": "Crew Member Receives Promotion",
+        "logContent": "A crew member received a promotion for exemplary service. Captain Christopher Pike presented the new rank.",
+        "date": "2075-09-13",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 19445
+      },
+      {
+        "id": "christopher_pike_29",
+        "location": "Betazed",
+        "logTitle": "Ion Storm Approaching",
+        "logContent": "An ion storm is approaching. Captain Christopher Pike ordered all decks to secure for heavy turbulence.",
+        "date": "2075-09-14",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 19446
+      },
+      {
+        "id": "christopher_pike_30",
+        "location": "Starbase 1",
+        "logTitle": "Crew Member Wedding",
+        "logContent": "A wedding was held in the arboretum. Captain Christopher Pike officiated the ceremony.",
+        "date": "2075-09-15",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 19447
+      },
+      {
+        "id": "christopher_pike_31",
+        "location": "Rura Penthe",
+        "logTitle": "Engineering: Warp Core Overload",
+        "logContent": "A warp core overload was narrowly averted thanks to quick action by engineering. Captain Christopher Pike commended the crew for their bravery.",
+        "date": "2075-09-16",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 19448
+      },
+      {
+        "id": "christopher_pike_32",
+        "location": "Zeta Alpha",
+        "logTitle": "Plasma Leak in Engineering",
+        "logContent": "A plasma leak in engineering was quickly contained. Captain Christopher Pike praised the engineering team.",
+        "date": "2075-09-17",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 19449
+      },
+      {
+        "id": "christopher_pike_33",
+        "location": "Cestus III",
+        "logTitle": "Diplomatic Incident on Bajor",
+        "logContent": "A diplomatic incident on Bajor required Captain Christopher Pike's intervention to prevent escalation.",
+        "date": "2075-09-18",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 19450
+      },
+      {
+        "id": "christopher_pike_34",
+        "location": "Sector 31",
+        "logTitle": "Starbase Docking",
+        "logContent": "The USS Discovery docked at a Federation starbase for resupply and crew rotation.",
+        "date": "2075-09-19",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 19451
+      },
+      {
+        "id": "christopher_pike_35",
+        "location": "Mirror Universe",
+        "logTitle": "Crew Member Wedding",
+        "logContent": "A wedding was held in the arboretum. Captain Christopher Pike officiated the ceremony.",
+        "date": "2075-09-20",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 19452
+      },
+      {
+        "id": "christopher_pike_36",
+        "location": "Cestus III",
+        "logTitle": "Crew Exchange Program",
+        "logContent": "A crew exchange program with another Federation ship began. Captain Christopher Pike welcomed new officers.",
+        "date": "2075-09-21",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 19453
+      },
+      {
+        "id": "christopher_pike_37",
+        "location": "Tarchannen III",
+        "logTitle": "Crew Member Returns from Leave",
+        "logContent": "A crew member returned from extended leave. Captain Christopher Pike welcomed them back aboard.",
+        "date": "2075-09-22",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 19454
+      },
+      {
+        "id": "christopher_pike_38",
+        "location": "Mutara Nebula",
+        "logTitle": "Crew Member Court-Martialed",
+        "logContent": "A crew member was court-martialed for misconduct. Captain Christopher Pike presided over the proceedings.",
+        "date": "2075-09-23",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 19455
+      },
+      {
+        "id": "christopher_pike_39",
+        "location": "Qo'noS",
+        "logTitle": "Crew Member Wedding",
+        "logContent": "A wedding was held in the arboretum. Captain Christopher Pike officiated the ceremony.",
+        "date": "2075-09-24",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 19456
+      },
+      {
+        "id": "christopher_pike_40",
+        "location": "Sector 31",
+        "logTitle": "Alien Language Deciphered",
+        "logContent": "A new alien language was deciphered. Captain Christopher Pike praised the linguistics team.",
+        "date": "2075-09-25",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 19457
+      },
+      {
+        "id": "christopher_pike_41",
+        "location": "Risa",
+        "logTitle": "Ancient Ruins Surveyed",
+        "logContent": "Ancient ruins were surveyed on a nearby planet. Captain Christopher Pike led the away team.",
+        "date": "2075-09-26",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 19458
+      },
+      {
+        "id": "christopher_pike_42",
+        "location": "Starbase 375",
+        "logTitle": "Power Grid Fluctuations",
+        "logContent": "Power grid fluctuations affected several decks. Captain Christopher Pike ordered engineering to investigate.",
+        "date": "2075-09-27",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 19459
+      },
+      {
+        "id": "christopher_pike_43",
+        "location": "Zeta Alpha",
+        "logTitle": "New Shuttlecraft Commissioned",
+        "logContent": "A new shuttlecraft was commissioned. Captain Christopher Pike attended the launch ceremony.",
+        "date": "2075-09-28",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 19460
+      },
+      {
+        "id": "christopher_pike_44",
+        "location": "Genesis Planet",
+        "logTitle": "Alien Ship Salvaged",
+        "logContent": "An alien ship was salvaged for study. Captain Christopher Pike authorized the operation.",
+        "date": "2075-09-29",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 19461
+      },
+      {
+        "id": "christopher_pike_45",
+        "location": "Remus",
+        "logTitle": "Alien Delegation Arrives",
+        "logContent": "An alien delegation arrived for peace talks. Captain Christopher Pike welcomed them aboard the USS Discovery.",
+        "date": "2075-09-30",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 19462
+      },
+      {
+        "id": "christopher_pike_46",
+        "location": "Altair VI",
+        "logTitle": "Klingon Border Tensions",
+        "logContent": "The USS Discovery was dispatched to the Klingon border after reports of increased tensions. Captain Christopher Pike is monitoring the situation closely.",
+        "date": "2075-10-01",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 19463
+      },
+      {
+        "id": "christopher_pike_47",
+        "location": "Tarchannen III",
+        "logTitle": "Subspace Anomaly Investigation",
+        "logContent": "A subspace anomaly was detected. Captain Christopher Pike ordered a science team to investigate.",
+        "date": "2075-10-02",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 19464
+      },
+      {
+        "id": "christopher_pike_48",
+        "location": "Starbase 375",
+        "logTitle": "Mutiny Attempt Thwarted",
+        "logContent": "A small group of crew attempted a mutiny. Captain Christopher Pike restored order and addressed the crew's grievances.",
+        "date": "2075-10-03",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 19465
+      },
+      {
+        "id": "christopher_pike_49",
+        "location": "Sector 001",
+        "logTitle": "Replicator Malfunction",
+        "logContent": "Replicators malfunctioned, causing food shortages. Captain Christopher Pike coordinated repairs and rationing.",
+        "date": "2075-10-04",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 19466
+      },
+      {
+        "id": "christopher_pike_50",
+        "location": "Janus VI",
+        "logTitle": "New Uniforms Issued",
+        "logContent": "New uniforms were issued to the crew. Captain Christopher Pike addressed the crew about the change.",
+        "date": "2075-10-05",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 19467
+      }
+    ]
+  },
+  {
+    "captainName": "Gabriel Lorca",
+    "captainImage": "gabriel_lorca.jpg",
+    "shipName": "USS Discovery",
+    "shipImage": "USS_Discovery.webp",
+    "lastCrisisDate": "2024-06-02",
+    "logs": [
+      {
+        "id": "gabriel_lorca_1",
+        "location": "Cestus III",
+        "logTitle": "Crew Exchange Program",
+        "logContent": "A crew exchange program with another Federation ship began. Captain Gabriel Lorca welcomed new officers.",
+        "date": "2075-08-17",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 18703
+      },
+      {
+        "id": "gabriel_lorca_2",
+        "location": "Genesis Planet",
+        "logTitle": "Science Experiment Success",
+        "logContent": "A science experiment yielded promising results. Captain Gabriel Lorca congratulated the research team.",
+        "date": "2075-08-18",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 18704
+      },
+      {
+        "id": "gabriel_lorca_3",
+        "location": "Denobula",
+        "logTitle": "Starfleet Inspection",
+        "logContent": "A Starfleet inspection team arrived. Captain Gabriel Lorca prepared the crew for review.",
+        "date": "2075-08-19",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 18705
+      },
+      {
+        "id": "gabriel_lorca_4",
+        "location": "Orion",
+        "logTitle": "Alien Plant Studied",
+        "logContent": "An alien plant was studied in the science lab. Captain Gabriel Lorca authorized further research.",
+        "date": "2075-08-20",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 18706
+      },
+      {
+        "id": "gabriel_lorca_5",
+        "location": "Rigel VII",
+        "logTitle": "Diplomatic Banquet",
+        "logContent": "A diplomatic banquet was held for visiting dignitaries. Captain Gabriel Lorca delivered a welcome speech.",
+        "date": "2075-08-21",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 18707
+      },
+      {
+        "id": "gabriel_lorca_6",
+        "location": "Nimbus System",
+        "logTitle": "Medical Supply Shortage",
+        "logContent": "A medical supply shortage required rationing. Captain Gabriel Lorca coordinated with Starfleet Command.",
+        "date": "2075-08-22",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 18708
+      },
+      {
+        "id": "gabriel_lorca_7",
+        "location": "Delta Vega",
+        "logTitle": "Computer Core Upgrade",
+        "logContent": "The USS Discovery's computer core was upgraded. Captain Gabriel Lorca oversaw the process to ensure security.",
+        "date": "2075-08-23",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 18709
+      },
+      {
+        "id": "gabriel_lorca_8",
+        "location": "Vulcan Forge",
+        "logTitle": "Shore Leave on Risa",
+        "logContent": "Crew morale was boosted by a brief shore leave on Risa. Captain Gabriel Lorca authorized recreational activities for all off-duty personnel.",
+        "date": "2075-08-24",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 18710
+      },
+      {
+        "id": "gabriel_lorca_9",
+        "location": "Rura Penthe",
+        "logTitle": "Asteroid Field Navigation",
+        "logContent": "The USS Discovery successfully navigated a dense asteroid field. Captain Gabriel Lorca praised the helm officer's skill.",
+        "date": "2075-08-25",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 18711
+      },
+      {
+        "id": "gabriel_lorca_10",
+        "location": "Xindi Prime",
+        "logTitle": "Crew Member Court-Martialed",
+        "logContent": "A crew member was court-martialed for misconduct. Captain Gabriel Lorca presided over the proceedings.",
+        "date": "2075-08-26",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 18712
+      },
+      {
+        "id": "gabriel_lorca_11",
+        "location": "Deep Space Nine",
+        "logTitle": "Sensor Array Recalibrated",
+        "logContent": "The sensor array was recalibrated for deep space scans. Captain Gabriel Lorca authorized the procedure.",
+        "date": "2075-08-27",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 18713
+      },
+      {
+        "id": "gabriel_lorca_12",
+        "location": "Orion",
+        "logTitle": "Rescue Operation at Cardassia",
+        "logContent": "A distress call from Cardassia prompted a rescue mission. Captain Gabriel Lorca led an away team to assist survivors.",
+        "date": "2075-08-28",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 18714
+      },
+      {
+        "id": "gabriel_lorca_13",
+        "location": "Vulcan Forge",
+        "logTitle": "Crew Member Retires",
+        "logContent": "A long-serving crew member retired. Captain Gabriel Lorca gave a farewell address.",
+        "date": "2075-08-29",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 18715
+      },
+      {
+        "id": "gabriel_lorca_14",
+        "location": "New Vulcan",
+        "logTitle": "Plasma Leak in Engineering",
+        "logContent": "A plasma leak in engineering was quickly contained. Captain Gabriel Lorca praised the engineering team.",
+        "date": "2075-08-30",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 18716
+      },
+      {
+        "id": "gabriel_lorca_15",
+        "location": "Delta Quadrant",
+        "logTitle": "Sabotage Attempt Foiled",
+        "logContent": "A sabotage attempt was foiled by security. Captain Gabriel Lorca commended the quick response.",
+        "date": "2075-08-31",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 18717
+      },
+      {
+        "id": "gabriel_lorca_16",
+        "location": "Galorndon Core",
+        "logTitle": "Subspace Anomaly Investigation",
+        "logContent": "A subspace anomaly was detected. Captain Gabriel Lorca ordered a science team to investigate.",
+        "date": "2075-09-01",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 18718
+      },
+      {
+        "id": "gabriel_lorca_17",
+        "location": "Trill",
+        "logTitle": "Alien Relic Discovered",
+        "logContent": "An alien relic was discovered on an away mission. Captain Gabriel Lorca ordered it brought aboard for study.",
+        "date": "2075-09-02",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 18719
+      },
+      {
+        "id": "gabriel_lorca_18",
+        "location": "Bajor Wormhole",
+        "logTitle": "Starbase Docking",
+        "logContent": "The USS Discovery docked at a Federation starbase for resupply and crew rotation.",
+        "date": "2075-09-03",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 18720
+      },
+      {
+        "id": "gabriel_lorca_19",
+        "location": "Cardassia",
+        "logTitle": "Crew Member Returns from Leave",
+        "logContent": "A crew member returned from extended leave. Captain Gabriel Lorca welcomed them back aboard.",
+        "date": "2075-09-04",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 18721
+      },
+      {
+        "id": "gabriel_lorca_20",
+        "location": "Luna",
+        "logTitle": "Crew Member Wedding",
+        "logContent": "A wedding was held in the arboretum. Captain Gabriel Lorca officiated the ceremony.",
+        "date": "2075-09-05",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 18722
+      },
+      {
+        "id": "gabriel_lorca_21",
+        "location": "Sigma Iotia II",
+        "logTitle": "Security Drill",
+        "logContent": "A shipwide security drill was conducted. Captain Gabriel Lorca reviewed the crew's performance.",
+        "date": "2075-09-06",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 18723
+      },
+      {
+        "id": "gabriel_lorca_22",
+        "location": "Genesis Planet",
+        "logTitle": "Sabotage Attempt Foiled",
+        "logContent": "A sabotage attempt was foiled by security. Captain Gabriel Lorca commended the quick response.",
+        "date": "2075-09-07",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 18724
+      },
+      {
+        "id": "gabriel_lorca_23",
+        "location": "New Vulcan",
+        "logTitle": "Alien Technology Integrated",
+        "logContent": "Alien technology was integrated into the USS Discovery's systems. Captain Gabriel Lorca oversaw the process.",
+        "date": "2075-09-08",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 18725
+      },
+      {
+        "id": "gabriel_lorca_24",
+        "location": "Mars",
+        "logTitle": "Alien Festival Celebrated",
+        "logContent": "The crew celebrated an alien festival. Captain Gabriel Lorca participated in the festivities.",
+        "date": "2075-09-09",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 18726
+      },
+      {
+        "id": "gabriel_lorca_25",
+        "location": "Earth",
+        "logTitle": "Crew Member Awarded Leave",
+        "logContent": "A crew member was awarded extended leave. Captain Gabriel Lorca approved the request.",
+        "date": "2075-09-10",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 18727
+      },
+      {
+        "id": "gabriel_lorca_26",
+        "location": "Orion",
+        "logTitle": "Mutiny Attempt Thwarted",
+        "logContent": "A small group of crew attempted a mutiny. Captain Gabriel Lorca restored order and addressed the crew's grievances.",
+        "date": "2075-09-11",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 18728
+      },
+      {
+        "id": "gabriel_lorca_27",
+        "location": "Tzenkethi",
+        "logTitle": "Medical Emergency: Unknown Virus",
+        "logContent": "An unknown virus spread among the crew. Medical teams worked around the clock. Captain Gabriel Lorca ordered quarantine protocols.",
+        "date": "2075-09-12",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 18729
+      },
+      {
+        "id": "gabriel_lorca_28",
+        "location": "Argelius II",
+        "logTitle": "Computer Core Upgrade",
+        "logContent": "The USS Discovery's computer core was upgraded. Captain Gabriel Lorca oversaw the process to ensure security.",
+        "date": "2075-09-13",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 18730
+      },
+      {
+        "id": "gabriel_lorca_29",
+        "location": "Gamma Quadrant",
+        "logTitle": "Crew Member Disciplined",
+        "logContent": "A crew member was disciplined for violating protocol. Captain Gabriel Lorca held a counseling session.",
+        "date": "2075-09-14",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 18731
+      },
+      {
+        "id": "gabriel_lorca_30",
+        "location": "Deep Space Nine",
+        "logTitle": "First Contact with Unknown Species",
+        "logContent": "Today, the USS Discovery encountered a previously unknown alien species. Captain Gabriel Lorca led the diplomatic team. Initial communications were tense, but progress was made.",
+        "date": "2075-09-15",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 18732
+      },
+      {
+        "id": "gabriel_lorca_31",
+        "location": "Vega Colony",
+        "logTitle": "Power Grid Fluctuations",
+        "logContent": "Power grid fluctuations affected several decks. Captain Gabriel Lorca ordered engineering to investigate.",
+        "date": "2075-09-16",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 18733
+      },
+      {
+        "id": "gabriel_lorca_32",
+        "location": "Starbase 74",
+        "logTitle": "Star Chart Updated",
+        "logContent": "The ship's star charts were updated with new data. Captain Gabriel Lorca reviewed the changes.",
+        "date": "2075-09-17",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 18734
+      },
+      {
+        "id": "gabriel_lorca_33",
+        "location": "New Berlin",
+        "logTitle": "Alien Language Deciphered",
+        "logContent": "A new alien language was deciphered. Captain Gabriel Lorca praised the linguistics team.",
+        "date": "2075-09-18",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 18735
+      },
+      {
+        "id": "gabriel_lorca_34",
+        "location": "Gamma Quadrant",
+        "logTitle": "Rescue Operation at Cardassia",
+        "logContent": "A distress call from Cardassia prompted a rescue mission. Captain Gabriel Lorca led an away team to assist survivors.",
+        "date": "2075-09-19",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 18736
+      },
+      {
+        "id": "gabriel_lorca_35",
+        "location": "Andoria",
+        "logTitle": "New Uniforms Issued",
+        "logContent": "New uniforms were issued to the crew. Captain Gabriel Lorca addressed the crew about the change.",
+        "date": "2075-09-20",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 18737
+      },
+      {
+        "id": "gabriel_lorca_36",
+        "location": "Galorndon Core",
+        "logTitle": "Diplomatic Incident on Bajor",
+        "logContent": "A diplomatic incident on Bajor required Captain Gabriel Lorca's intervention to prevent escalation.",
+        "date": "2075-09-21",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 18738
+      },
+      {
+        "id": "gabriel_lorca_37",
+        "location": "Sector 001",
+        "logTitle": "Alien Ambassador Onboard",
+        "logContent": "An alien ambassador boarded the USS Discovery for negotiations. Captain Gabriel Lorca ensured their comfort.",
+        "date": "2075-09-22",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 18739
+      },
+      {
+        "id": "gabriel_lorca_38",
+        "location": "Mars",
+        "logTitle": "Alien Delegation Arrives",
+        "logContent": "An alien delegation arrived for peace talks. Captain Gabriel Lorca welcomed them aboard the USS Discovery.",
+        "date": "2075-09-23",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 18740
+      },
+      {
+        "id": "gabriel_lorca_39",
+        "location": "Luna",
+        "logTitle": "Crew Member Injured",
+        "logContent": "A crew member was injured during a holodeck simulation. Captain Gabriel Lorca visited them in sickbay.",
+        "date": "2075-09-24",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 18741
+      },
+      {
+        "id": "gabriel_lorca_40",
+        "location": "Sigma Iotia II",
+        "logTitle": "Engineering: Warp Core Overload",
+        "logContent": "A warp core overload was narrowly averted thanks to quick action by engineering. Captain Gabriel Lorca commended the crew for their bravery.",
+        "date": "2075-09-25",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 18742
+      },
+      {
+        "id": "gabriel_lorca_41",
+        "location": "Nimbus System",
+        "logTitle": "Sensor Ghosts Detected",
+        "logContent": "Unexplained sensor ghosts appeared on long-range scans. Captain Gabriel Lorca ordered a full diagnostic.",
+        "date": "2075-09-26",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 18743
+      },
+      {
+        "id": "gabriel_lorca_42",
+        "location": "Dytallix B",
+        "logTitle": "Diplomatic Mission to Vulcan",
+        "logContent": "The USS Discovery arrived at Vulcan for a high-level diplomatic summit. Captain Gabriel Lorca met with Vulcan officials to discuss Federation policy.",
+        "date": "2075-09-27",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 18744
+      },
+      {
+        "id": "gabriel_lorca_43",
+        "location": "Orion",
+        "logTitle": "Crew Member Injured",
+        "logContent": "A crew member was injured during a holodeck simulation. Captain Gabriel Lorca visited them in sickbay.",
+        "date": "2075-09-28",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 18745
+      },
+      {
+        "id": "gabriel_lorca_44",
+        "location": "Orion",
+        "logTitle": "Computer Core Upgrade",
+        "logContent": "The USS Discovery's computer core was upgraded. Captain Gabriel Lorca oversaw the process to ensure security.",
+        "date": "2075-09-29",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 18746
+      },
+      {
+        "id": "gabriel_lorca_45",
+        "location": "Orion",
+        "logTitle": "Sensor Array Recalibrated",
+        "logContent": "The sensor array was recalibrated for deep space scans. Captain Gabriel Lorca authorized the procedure.",
+        "date": "2075-09-30",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 18747
+      },
+      {
+        "id": "gabriel_lorca_46",
+        "location": "Delta Vega",
+        "logTitle": "Klingon Border Tensions",
+        "logContent": "The USS Discovery was dispatched to the Klingon border after reports of increased tensions. Captain Gabriel Lorca is monitoring the situation closely.",
+        "date": "2075-10-01",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 18748
+      },
+      {
+        "id": "gabriel_lorca_47",
+        "location": "Deep Space Nine",
+        "logTitle": "Alien Pet Onboard",
+        "logContent": "A crew member adopted an alien pet. Captain Gabriel Lorca approved after a medical scan.",
+        "date": "2075-10-02",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 18749
+      },
+      {
+        "id": "gabriel_lorca_48",
+        "location": "Cestus III",
+        "logTitle": "New Warp Record Set",
+        "logContent": "The USS Discovery set a new warp speed record. Captain Gabriel Lorca congratulated the engineering team.",
+        "date": "2075-10-03",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 18750
+      },
+      {
+        "id": "gabriel_lorca_49",
+        "location": "Betazed",
+        "logTitle": "Crew Member Injured",
+        "logContent": "A crew member was injured during a holodeck simulation. Captain Gabriel Lorca visited them in sickbay.",
+        "date": "2075-10-04",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 18751
+      },
+      {
+        "id": "gabriel_lorca_50",
+        "location": "Ekos",
+        "logTitle": "New Shuttlecraft Commissioned",
+        "logContent": "A new shuttlecraft was commissioned. Captain Gabriel Lorca attended the launch ceremony.",
+        "date": "2075-10-05",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 18752
+      }
+    ]
+  },
+  {
+    "captainName": "Saru",
+    "captainImage": "saru.jpg",
+    "shipName": "USS Discovery",
+    "shipImage": "USS_Discovery.webp",
+    "lastCrisisDate": "2016-04-05",
+    "logs": [
+      {
+        "id": "saru_1",
+        "location": "Mirror Universe",
+        "logTitle": "Asteroid Field Navigation",
+        "logContent": "The USS Discovery successfully navigated a dense asteroid field. Captain Saru praised the helm officer's skill.",
+        "date": "2075-08-17",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 21683
+      },
+      {
+        "id": "saru_2",
+        "location": "Cestus III",
+        "logTitle": "Nebula Survey Mission",
+        "logContent": "The USS Discovery conducted a detailed survey of a nearby nebula. Captain Saru praised the science department for their thorough work.",
+        "date": "2075-08-18",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 21684
+      },
+      {
+        "id": "saru_3",
+        "location": "Starbase 1",
+        "logTitle": "Subspace Relay Failure",
+        "logContent": "A subspace relay failure disrupted communications. Captain Saru ordered repairs and status updates.",
+        "date": "2075-08-19",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 21685
+      },
+      {
+        "id": "saru_4",
+        "location": "Ekos",
+        "logTitle": "Starfleet Inspection",
+        "logContent": "A Starfleet inspection team arrived. Captain Saru prepared the crew for review.",
+        "date": "2075-08-20",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 21686
+      },
+      {
+        "id": "saru_5",
+        "location": "Nimbus System",
+        "logTitle": "First Contact with Unknown Species",
+        "logContent": "Today, the USS Discovery encountered a previously unknown alien species. Captain Saru led the diplomatic team. Initial communications were tense, but progress was made.",
+        "date": "2075-08-21",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 21687
+      },
+      {
+        "id": "saru_6",
+        "location": "Argelius II",
+        "logTitle": "Crew Member Court-Martialed",
+        "logContent": "A crew member was court-martialed for misconduct. Captain Saru presided over the proceedings.",
+        "date": "2075-08-22",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 21688
+      },
+      {
+        "id": "saru_7",
+        "location": "Sector 001",
+        "logTitle": "Crew Member Recovered",
+        "logContent": "A missing crew member was recovered safely. Captain Saru commended the search team.",
+        "date": "2075-08-23",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 21689
+      },
+      {
+        "id": "saru_8",
+        "location": "Dytallix B",
+        "logTitle": "Crew Member Reassigned",
+        "logContent": "A crew member was reassigned to another post. Captain Saru held a transfer ceremony.",
+        "date": "2075-08-24",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 21690
+      },
+      {
+        "id": "saru_9",
+        "location": "Rigel VII",
+        "logTitle": "Crew Member Promoted",
+        "logContent": "A crew member was promoted for outstanding service. Captain Saru held a ceremony in the main lounge.",
+        "date": "2075-08-25",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 21691
+      },
+      {
+        "id": "saru_10",
+        "location": "Qo'noS",
+        "logTitle": "New Uniforms Issued",
+        "logContent": "New uniforms were issued to the crew. Captain Saru addressed the crew about the change.",
+        "date": "2075-08-26",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 21692
+      },
+      {
+        "id": "saru_11",
+        "location": "Sherman’s Planet",
+        "logTitle": "Ancient Ruins Surveyed",
+        "logContent": "Ancient ruins were surveyed on a nearby planet. Captain Saru led the away team.",
+        "date": "2075-08-27",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 21693
+      },
+      {
+        "id": "saru_12",
+        "location": "Breen Homeworld",
+        "logTitle": "Klingon Border Tensions",
+        "logContent": "The USS Discovery was dispatched to the Klingon border after reports of increased tensions. Captain Saru is monitoring the situation closely.",
+        "date": "2075-08-28",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 21694
+      },
+      {
+        "id": "saru_13",
+        "location": "Breen Space",
+        "logTitle": "Crew Member Receives Promotion",
+        "logContent": "A crew member received a promotion for exemplary service. Captain Saru presented the new rank.",
+        "date": "2075-08-29",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 21695
+      },
+      {
+        "id": "saru_14",
+        "location": "Vega IX",
+        "logTitle": "Crew Member Awarded Leave",
+        "logContent": "A crew member was awarded extended leave. Captain Saru approved the request.",
+        "date": "2075-08-30",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 21696
+      },
+      {
+        "id": "saru_15",
+        "location": "The Neutral Zone",
+        "logTitle": "Crew Member Promoted",
+        "logContent": "A crew member was promoted for outstanding service. Captain Saru held a ceremony in the main lounge.",
+        "date": "2075-08-31",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 21697
+      },
+      {
+        "id": "saru_16",
+        "location": "Rura Penthe",
+        "logTitle": "Power Grid Fluctuations",
+        "logContent": "Power grid fluctuations affected several decks. Captain Saru ordered engineering to investigate.",
+        "date": "2075-09-01",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 21698
+      },
+      {
+        "id": "saru_17",
+        "location": "Romulus",
+        "logTitle": "Nebula Survey Mission",
+        "logContent": "The USS Discovery conducted a detailed survey of a nearby nebula. Captain Saru praised the science department for their thorough work.",
+        "date": "2075-09-02",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 21699
+      },
+      {
+        "id": "saru_18",
+        "location": "Bajor",
+        "logTitle": "Borg Cube Encounter",
+        "logContent": "Sensors detected a Borg cube in the sector. Captain Saru initiated evasive maneuvers and prepared the USS Discovery for possible engagement.",
+        "date": "2075-09-03",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 21700
+      },
+      {
+        "id": "saru_19",
+        "location": "Romulus",
+        "logTitle": "Crew Member Receives Promotion",
+        "logContent": "A crew member received a promotion for exemplary service. Captain Saru presented the new rank.",
+        "date": "2075-09-04",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 21701
+      },
+      {
+        "id": "saru_20",
+        "location": "Zeta Alpha",
+        "logTitle": "Diplomatic Gift Exchanged",
+        "logContent": "A diplomatic gift was exchanged with a visiting delegation. Captain Saru presented the gift on behalf of Starfleet.",
+        "date": "2075-09-05",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 21702
+      },
+      {
+        "id": "saru_21",
+        "location": "Mirror Universe",
+        "logTitle": "Crew Member Injured",
+        "logContent": "A crew member was injured during a holodeck simulation. Captain Saru visited them in sickbay.",
+        "date": "2075-09-06",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 21703
+      },
+      {
+        "id": "saru_22",
+        "location": "Iconia",
+        "logTitle": "Starbase Docking",
+        "logContent": "The USS Discovery docked at a Federation starbase for resupply and crew rotation.",
+        "date": "2075-09-07",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 21704
+      },
+      {
+        "id": "saru_23",
+        "location": "Nimbus III",
+        "logTitle": "Crew Member Missing",
+        "logContent": "A crew member was reported missing. Captain Saru initiated a shipwide search.",
+        "date": "2075-09-08",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 21705
+      },
+      {
+        "id": "saru_24",
+        "location": "Dytallix B",
+        "logTitle": "Crew Member Court-Martialed",
+        "logContent": "A crew member was court-martialed for misconduct. Captain Saru presided over the proceedings.",
+        "date": "2075-09-09",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 21706
+      },
+      {
+        "id": "saru_25",
+        "location": "Wolf 359",
+        "logTitle": "First Officer Commendation",
+        "logContent": "The first officer was commended for exemplary service. Captain Saru made a formal entry in the ship's log.",
+        "date": "2075-09-10",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 21707
+      },
+      {
+        "id": "saru_26",
+        "location": "Denobula",
+        "logTitle": "Q Appears On The Bridge",
+        "logContent": "Q made an unexpected appearance on the bridge, causing chaos. Captain Saru attempted to reason with him.",
+        "date": "2075-09-11",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 21708
+      },
+      {
+        "id": "saru_27",
+        "location": "Genesis Planet",
+        "logTitle": "Alien Infiltrator Exposed",
+        "logContent": "An alien infiltrator was exposed by security. Captain Saru led the debriefing.",
+        "date": "2075-09-12",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 21709
+      },
+      {
+        "id": "saru_28",
+        "location": "Sigma Iotia II",
+        "logTitle": "Subspace Anomaly Investigation",
+        "logContent": "A subspace anomaly was detected. Captain Saru ordered a science team to investigate.",
+        "date": "2075-09-13",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 21710
+      },
+      {
+        "id": "saru_29",
+        "location": "Starbase 74",
+        "logTitle": "Alien Virus Neutralized",
+        "logContent": "An alien virus was neutralized by medical staff. Captain Saru praised their quick action.",
+        "date": "2075-09-14",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 21711
+      },
+      {
+        "id": "saru_30",
+        "location": "Alpha Centauri",
+        "logTitle": "Asteroid Field Navigation",
+        "logContent": "The USS Discovery successfully navigated a dense asteroid field. Captain Saru praised the helm officer's skill.",
+        "date": "2075-09-15",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 21712
+      },
+      {
+        "id": "saru_31",
+        "location": "DS9",
+        "logTitle": "Crew Member Returns from Leave",
+        "logContent": "A crew member returned from extended leave. Captain Saru welcomed them back aboard.",
+        "date": "2075-09-16",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 21713
+      },
+      {
+        "id": "saru_32",
+        "location": "New Berlin",
+        "logTitle": "Engineering: Warp Core Overload",
+        "logContent": "A warp core overload was narrowly averted thanks to quick action by engineering. Captain Saru commended the crew for their bravery.",
+        "date": "2075-09-17",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 21714
+      },
+      {
+        "id": "saru_33",
+        "location": "Ekos",
+        "logTitle": "Alien Infiltrator Exposed",
+        "logContent": "An alien infiltrator was exposed by security. Captain Saru led the debriefing.",
+        "date": "2075-09-18",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 21715
+      },
+      {
+        "id": "saru_34",
+        "location": "Mars",
+        "logTitle": "Nebula Survey Mission",
+        "logContent": "The USS Discovery conducted a detailed survey of a nearby nebula. Captain Saru praised the science department for their thorough work.",
+        "date": "2075-09-19",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 21716
+      },
+      {
+        "id": "saru_35",
+        "location": "Zeta Alpha",
+        "logTitle": "Alien Artifact Recovered",
+        "logContent": "An alien artifact was recovered from a derelict vessel. Captain Saru ordered it transferred to the science lab for study.",
+        "date": "2075-09-20",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 21717
+      },
+      {
+        "id": "saru_36",
+        "location": "Vulcan",
+        "logTitle": "First Officer Commendation",
+        "logContent": "The first officer was commended for exemplary service. Captain Saru made a formal entry in the ship's log.",
+        "date": "2075-09-21",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 21718
+      },
+      {
+        "id": "saru_37",
+        "location": "Cardassia",
+        "logTitle": "Meteor Shower Observation",
+        "logContent": "The USS Discovery observed a rare meteor shower. Captain Saru invited the crew to the observation lounge.",
+        "date": "2075-09-22",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 21719
+      },
+      {
+        "id": "saru_38",
+        "location": "Remus",
+        "logTitle": "Alien Ship Salvaged",
+        "logContent": "An alien ship was salvaged for study. Captain Saru authorized the operation.",
+        "date": "2075-09-23",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 21720
+      },
+      {
+        "id": "saru_39",
+        "location": "Rigel VII",
+        "logTitle": "Cargo Bay Fire",
+        "logContent": "A fire broke out in the cargo bay. Captain Saru coordinated firefighting efforts.",
+        "date": "2075-09-24",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 21721
+      },
+      {
+        "id": "saru_40",
+        "location": "Ferenginar",
+        "logTitle": "Borg Cube Encounter",
+        "logContent": "Sensors detected a Borg cube in the sector. Captain Saru initiated evasive maneuvers and prepared the USS Discovery for possible engagement.",
+        "date": "2075-09-25",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 21722
+      },
+      {
+        "id": "saru_41",
+        "location": "Sherman’s Planet",
+        "logTitle": "Alien Infiltrator Exposed",
+        "logContent": "An alien infiltrator was exposed by security. Captain Saru led the debriefing.",
+        "date": "2075-09-26",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 21723
+      },
+      {
+        "id": "saru_42",
+        "location": "Sherman’s Planet",
+        "logTitle": "Alien Infiltrator Exposed",
+        "logContent": "An alien infiltrator was exposed by security. Captain Saru led the debriefing.",
+        "date": "2075-09-27",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 21724
+      },
+      {
+        "id": "saru_43",
+        "location": "The Neutral Zone",
+        "logTitle": "Klingon Border Tensions",
+        "logContent": "The USS Discovery was dispatched to the Klingon border after reports of increased tensions. Captain Saru is monitoring the situation closely.",
+        "date": "2075-09-28",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 21725
+      },
+      {
+        "id": "saru_44",
+        "location": "Tzenkethi",
+        "logTitle": "Crew Member Awarded Leave",
+        "logContent": "A crew member was awarded extended leave. Captain Saru approved the request.",
+        "date": "2075-09-29",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 21726
+      },
+      {
+        "id": "saru_45",
+        "location": "Romulus",
+        "logTitle": "Holographic Entertainment Night",
+        "logContent": "A holographic entertainment night was organized. Captain Saru attended with senior staff.",
+        "date": "2075-09-30",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 21727
+      },
+      {
+        "id": "saru_46",
+        "location": "Ceti Alpha V",
+        "logTitle": "Crew Member Recovered",
+        "logContent": "A missing crew member was recovered safely. Captain Saru commended the search team.",
+        "date": "2075-10-01",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 21728
+      },
+      {
+        "id": "saru_47",
+        "location": "Nimbus III",
+        "logTitle": "Alien Signal Decoded",
+        "logContent": "An alien signal was decoded by communications. Captain Saru ordered a response sent.",
+        "date": "2075-10-02",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 21729
+      },
+      {
+        "id": "saru_48",
+        "location": "Bajor",
+        "logTitle": "Diplomatic Gift Exchanged",
+        "logContent": "A diplomatic gift was exchanged with a visiting delegation. Captain Saru presented the gift on behalf of Starfleet.",
+        "date": "2075-10-03",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 21730
+      },
+      {
+        "id": "saru_49",
+        "location": "Argelius II",
+        "logTitle": "Crew Member Missing",
+        "logContent": "A crew member was reported missing. Captain Saru initiated a shipwide search.",
+        "date": "2075-10-04",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 21731
+      },
+      {
+        "id": "saru_50",
+        "location": "Andoria",
+        "logTitle": "Crew Member Reassigned",
+        "logContent": "A crew member was reassigned to another post. Captain Saru held a transfer ceremony.",
+        "date": "2075-10-05",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 21732
+      }
+    ]
+  },
+  {
+    "captainName": "Philippa Georgiou",
+    "captainImage": "philippa_georgiou.jpg",
+    "shipName": "USS Shenzhou",
+    "shipImage": "USS_Shenzhou.webp",
+    "lastCrisisDate": "2019-06-18",
+    "logs": [
+      {
+        "id": "philippa_georgiou_1",
+        "location": "Nimbus III",
+        "logTitle": "Alien Infiltrator Exposed",
+        "logContent": "An alien infiltrator was exposed by security. Captain Philippa Georgiou led the debriefing.",
+        "date": "2075-08-17",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 20514
+      },
+      {
+        "id": "philippa_georgiou_2",
+        "location": "Deep Space Nine",
+        "logTitle": "Medical Emergency: Unknown Virus",
+        "logContent": "An unknown virus spread among the crew. Medical teams worked around the clock. Captain Philippa Georgiou ordered quarantine protocols.",
+        "date": "2075-08-18",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 20515
+      },
+      {
+        "id": "philippa_georgiou_3",
+        "location": "New Berlin",
+        "logTitle": "Ancient Ruins Surveyed",
+        "logContent": "Ancient ruins were surveyed on a nearby planet. Captain Philippa Georgiou led the away team.",
+        "date": "2075-08-19",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 20516
+      },
+      {
+        "id": "philippa_georgiou_4",
+        "location": "Starbase 375",
+        "logTitle": "Alien Disease Outbreak",
+        "logContent": "An alien disease outbreak was contained by medical staff. Captain Philippa Georgiou praised their efforts.",
+        "date": "2075-08-20",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 20517
+      },
+      {
+        "id": "philippa_georgiou_5",
+        "location": "Tarchannen III",
+        "logTitle": "Subspace Anomaly Investigation",
+        "logContent": "A subspace anomaly was detected. Captain Philippa Georgiou ordered a science team to investigate.",
+        "date": "2075-08-21",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 20518
+      },
+      {
+        "id": "philippa_georgiou_6",
+        "location": "Cestus III",
+        "logTitle": "Alien Technology Integrated",
+        "logContent": "Alien technology was integrated into the USS Shenzhou's systems. Captain Philippa Georgiou oversaw the process.",
+        "date": "2075-08-22",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 20519
+      },
+      {
+        "id": "philippa_georgiou_7",
+        "location": "Vega Colony",
+        "logTitle": "Crew Exchange Program",
+        "logContent": "A crew exchange program with another Federation ship began. Captain Philippa Georgiou welcomed new officers.",
+        "date": "2075-08-23",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 20520
+      },
+      {
+        "id": "philippa_georgiou_8",
+        "location": "Sector 31",
+        "logTitle": "Alien Virus Neutralized",
+        "logContent": "An alien virus was neutralized by medical staff. Captain Philippa Georgiou praised their quick action.",
+        "date": "2075-08-24",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 20521
+      },
+      {
+        "id": "philippa_georgiou_9",
+        "location": "Starbase 74",
+        "logTitle": "Cargo Bay Fire",
+        "logContent": "A fire broke out in the cargo bay. Captain Philippa Georgiou coordinated firefighting efforts.",
+        "date": "2075-08-25",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 20522
+      },
+      {
+        "id": "philippa_georgiou_10",
+        "location": "Delta Quadrant",
+        "logTitle": "Nebula Survey Mission",
+        "logContent": "The USS Shenzhou conducted a detailed survey of a nearby nebula. Captain Philippa Georgiou praised the science department for their thorough work.",
+        "date": "2075-08-26",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 20523
+      },
+      {
+        "id": "philippa_georgiou_11",
+        "location": "Zeta Alpha",
+        "logTitle": "Crew Quarantine Lifted",
+        "logContent": "A shipwide quarantine was lifted after medical clearance. Captain Philippa Georgiou thanked the medical staff.",
+        "date": "2075-08-27",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 20524
+      },
+      {
+        "id": "philippa_georgiou_12",
+        "location": "Alpha Centauri",
+        "logTitle": "Ancient Ruins Surveyed",
+        "logContent": "Ancient ruins were surveyed on a nearby planet. Captain Philippa Georgiou led the away team.",
+        "date": "2075-08-28",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 20525
+      },
+      {
+        "id": "philippa_georgiou_13",
+        "location": "Sector 31",
+        "logTitle": "Alien Language Deciphered",
+        "logContent": "A new alien language was deciphered. Captain Philippa Georgiou praised the linguistics team.",
+        "date": "2075-08-29",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 20526
+      },
+      {
+        "id": "philippa_georgiou_14",
+        "location": "Zeta Alpha",
+        "logTitle": "Alien Signal Decoded",
+        "logContent": "An alien signal was decoded by communications. Captain Philippa Georgiou ordered a response sent.",
+        "date": "2075-08-30",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 20527
+      },
+      {
+        "id": "philippa_georgiou_15",
+        "location": "Ceti Alpha V",
+        "logTitle": "Diplomatic Banquet",
+        "logContent": "A diplomatic banquet was held for visiting dignitaries. Captain Philippa Georgiou delivered a welcome speech.",
+        "date": "2075-08-31",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 20528
+      },
+      {
+        "id": "philippa_georgiou_16",
+        "location": "The Neutral Zone",
+        "logTitle": "Medical Emergency: Unknown Virus",
+        "logContent": "An unknown virus spread among the crew. Medical teams worked around the clock. Captain Philippa Georgiou ordered quarantine protocols.",
+        "date": "2075-09-01",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 20529
+      },
+      {
+        "id": "philippa_georgiou_17",
+        "location": "Altair VI",
+        "logTitle": "New Shuttlecraft Commissioned",
+        "logContent": "A new shuttlecraft was commissioned. Captain Philippa Georgiou attended the launch ceremony.",
+        "date": "2075-09-02",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 20530
+      },
+      {
+        "id": "philippa_georgiou_18",
+        "location": "Genesis Planet",
+        "logTitle": "Subspace Relay Failure",
+        "logContent": "A subspace relay failure disrupted communications. Captain Philippa Georgiou ordered repairs and status updates.",
+        "date": "2075-09-03",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 20531
+      },
+      {
+        "id": "philippa_georgiou_19",
+        "location": "Qo'noS",
+        "logTitle": "Diplomatic Incident on Bajor",
+        "logContent": "A diplomatic incident on Bajor required Captain Philippa Georgiou's intervention to prevent escalation.",
+        "date": "2075-09-04",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 20532
+      },
+      {
+        "id": "philippa_georgiou_20",
+        "location": "Mars",
+        "logTitle": "Sabotage Attempt Foiled",
+        "logContent": "A sabotage attempt was foiled by security. Captain Philippa Georgiou commended the quick response.",
+        "date": "2075-09-05",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 20533
+      },
+      {
+        "id": "philippa_georgiou_21",
+        "location": "Altair VI",
+        "logTitle": "Medical Emergency: Unknown Virus",
+        "logContent": "An unknown virus spread among the crew. Medical teams worked around the clock. Captain Philippa Georgiou ordered quarantine protocols.",
+        "date": "2075-09-06",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 20534
+      },
+      {
+        "id": "philippa_georgiou_22",
+        "location": "Trill",
+        "logTitle": "Diplomatic Banquet",
+        "logContent": "A diplomatic banquet was held for visiting dignitaries. Captain Philippa Georgiou delivered a welcome speech.",
+        "date": "2075-09-07",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 20535
+      },
+      {
+        "id": "philippa_georgiou_23",
+        "location": "Archanis Sector",
+        "logTitle": "Alien Pet Onboard",
+        "logContent": "A crew member adopted an alien pet. Captain Philippa Georgiou approved after a medical scan.",
+        "date": "2075-09-08",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 20536
+      },
+      {
+        "id": "philippa_georgiou_24",
+        "location": "Rigel VII",
+        "logTitle": "Crew Member Promoted",
+        "logContent": "A crew member was promoted for outstanding service. Captain Philippa Georgiou held a ceremony in the main lounge.",
+        "date": "2075-09-09",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 20537
+      },
+      {
+        "id": "philippa_georgiou_25",
+        "location": "Alpha Centauri",
+        "logTitle": "Subspace Anomaly Investigation",
+        "logContent": "A subspace anomaly was detected. Captain Philippa Georgiou ordered a science team to investigate.",
+        "date": "2075-09-10",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 20538
+      },
+      {
+        "id": "philippa_georgiou_26",
+        "location": "Alpha Centauri",
+        "logTitle": "Mutiny Attempt Thwarted",
+        "logContent": "A small group of crew attempted a mutiny. Captain Philippa Georgiou restored order and addressed the crew's grievances.",
+        "date": "2075-09-11",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 20539
+      },
+      {
+        "id": "philippa_georgiou_27",
+        "location": "Starbase 74",
+        "logTitle": "Holodeck Malfunction",
+        "logContent": "A holodeck malfunction trapped several crew members in a simulation. Captain Philippa Georgiou coordinated the rescue operation.",
+        "date": "2075-09-12",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 20540
+      },
+      {
+        "id": "philippa_georgiou_28",
+        "location": "Deep Space Twelve",
+        "logTitle": "Meteor Shower Observation",
+        "logContent": "The USS Shenzhou observed a rare meteor shower. Captain Philippa Georgiou invited the crew to the observation lounge.",
+        "date": "2075-09-13",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 20541
+      },
+      {
+        "id": "philippa_georgiou_29",
+        "location": "Cardassia",
+        "logTitle": "New Shuttlecraft Commissioned",
+        "logContent": "A new shuttlecraft was commissioned. Captain Philippa Georgiou attended the launch ceremony.",
+        "date": "2075-09-14",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 20542
+      },
+      {
+        "id": "philippa_georgiou_30",
+        "location": "Dytallix B",
+        "logTitle": "Crew Member Wedding",
+        "logContent": "A wedding was held in the arboretum. Captain Philippa Georgiou officiated the ceremony.",
+        "date": "2075-09-15",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 20543
+      },
+      {
+        "id": "philippa_georgiou_31",
+        "location": "Zeta Alpha",
+        "logTitle": "Engineering: Warp Core Overload",
+        "logContent": "A warp core overload was narrowly averted thanks to quick action by engineering. Captain Philippa Georgiou commended the crew for their bravery.",
+        "date": "2075-09-16",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 20544
+      },
+      {
+        "id": "philippa_georgiou_32",
+        "location": "Romulus",
+        "logTitle": "Holodeck Malfunction",
+        "logContent": "A holodeck malfunction trapped several crew members in a simulation. Captain Philippa Georgiou coordinated the rescue operation.",
+        "date": "2075-09-17",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 20545
+      },
+      {
+        "id": "philippa_georgiou_33",
+        "location": "Earth",
+        "logTitle": "Crew Member Receives Commendation",
+        "logContent": "A crew member received a commendation for bravery. Captain Philippa Georgiou made a formal entry in the log.",
+        "date": "2075-09-18",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 20546
+      },
+      {
+        "id": "philippa_georgiou_34",
+        "location": "Iconia",
+        "logTitle": "Crew Member Injured",
+        "logContent": "A crew member was injured during a holodeck simulation. Captain Philippa Georgiou visited them in sickbay.",
+        "date": "2075-09-19",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 20547
+      },
+      {
+        "id": "philippa_georgiou_35",
+        "location": "Qo'noS",
+        "logTitle": "Subspace Relay Failure",
+        "logContent": "A subspace relay failure disrupted communications. Captain Philippa Georgiou ordered repairs and status updates.",
+        "date": "2075-09-20",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 20548
+      },
+      {
+        "id": "philippa_georgiou_36",
+        "location": "Kelvin Outpost",
+        "logTitle": "Crew Member Court-Martialed",
+        "logContent": "A crew member was court-martialed for misconduct. Captain Philippa Georgiou presided over the proceedings.",
+        "date": "2075-09-21",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 20549
+      },
+      {
+        "id": "philippa_georgiou_37",
+        "location": "Mirror Universe",
+        "logTitle": "Diplomatic Gift Exchanged",
+        "logContent": "A diplomatic gift was exchanged with a visiting delegation. Captain Philippa Georgiou presented the gift on behalf of Starfleet.",
+        "date": "2075-09-22",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 20550
+      },
+      {
+        "id": "philippa_georgiou_38",
+        "location": "Cestus III",
+        "logTitle": "Shuttlecraft Lost",
+        "logContent": "A shuttlecraft was reported missing during a routine survey. Captain Philippa Georgiou organized a search and rescue operation.",
+        "date": "2075-09-23",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 20551
+      },
+      {
+        "id": "philippa_georgiou_39",
+        "location": "Janus VI",
+        "logTitle": "Science Experiment Success",
+        "logContent": "A science experiment yielded promising results. Captain Philippa Georgiou congratulated the research team.",
+        "date": "2075-09-24",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 20552
+      },
+      {
+        "id": "philippa_georgiou_40",
+        "location": "Orion",
+        "logTitle": "Crew Member Retires",
+        "logContent": "A long-serving crew member retired. Captain Philippa Georgiou gave a farewell address.",
+        "date": "2075-09-25",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 20553
+      },
+      {
+        "id": "philippa_georgiou_41",
+        "location": "Nimbus III",
+        "logTitle": "Security Drill",
+        "logContent": "A shipwide security drill was conducted. Captain Philippa Georgiou reviewed the crew's performance.",
+        "date": "2075-09-26",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 20554
+      },
+      {
+        "id": "philippa_georgiou_42",
+        "location": "Starbase 74",
+        "logTitle": "Computer Core Upgrade",
+        "logContent": "The USS Shenzhou's computer core was upgraded. Captain Philippa Georgiou oversaw the process to ensure security.",
+        "date": "2075-09-27",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 20555
+      },
+      {
+        "id": "philippa_georgiou_43",
+        "location": "Archanis Sector",
+        "logTitle": "Power Grid Fluctuations",
+        "logContent": "Power grid fluctuations affected several decks. Captain Philippa Georgiou ordered engineering to investigate.",
+        "date": "2075-09-28",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 20556
+      },
+      {
+        "id": "philippa_georgiou_44",
+        "location": "Vega Colony",
+        "logTitle": "Shore Leave on Risa",
+        "logContent": "Crew morale was boosted by a brief shore leave on Risa. Captain Philippa Georgiou authorized recreational activities for all off-duty personnel.",
+        "date": "2075-09-29",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 20557
+      },
+      {
+        "id": "philippa_georgiou_45",
+        "location": "Nimbus III",
+        "logTitle": "Crew Member Reassigned",
+        "logContent": "A crew member was reassigned to another post. Captain Philippa Georgiou held a transfer ceremony.",
+        "date": "2075-09-30",
+        "mistakesWereMadeToday": false,
+        "daysSinceLastCrisis": 20558
+      },
+      {
+        "id": "philippa_georgiou_46",
+        "location": "Vulcan Forge",
+        "logTitle": "Engineering: Warp Core Overload",
+        "logContent": "A warp core overload was narrowly averted thanks to quick action by engineering. Captain Philippa Georgiou commended the crew for their bravery.",
+        "date": "2075-10-01",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 20559
+      },
+      {
+        "id": "philippa_georgiou_47",
+        "location": "Sector 001",
+        "logTitle": "Crew Talent Show",
+        "logContent": "A crew talent show was held to boost morale. Captain Philippa Georgiou participated as a judge.",
+        "date": "2075-10-02",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 20560
+      },
+      {
+        "id": "philippa_georgiou_48",
+        "location": "Bajor",
+        "logTitle": "Alien Artifact Recovered",
+        "logContent": "An alien artifact was recovered from a derelict vessel. Captain Philippa Georgiou ordered it transferred to the science lab for study.",
+        "date": "2075-10-03",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 20561
+      },
+      {
+        "id": "philippa_georgiou_49",
+        "location": "Bajor",
+        "logTitle": "Crew Talent Show",
+        "logContent": "A crew talent show was held to boost morale. Captain Philippa Georgiou participated as a judge.",
+        "date": "2075-10-04",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 20562
+      },
+      {
+        "id": "philippa_georgiou_50",
+        "location": "Starbase 74",
+        "logTitle": "Shore Leave on Risa",
+        "logContent": "Crew morale was boosted by a brief shore leave on Risa. Captain Philippa Georgiou authorized recreational activities for all off-duty personnel.",
+        "date": "2075-10-05",
+        "mistakesWereMadeToday": true,
+        "daysSinceLastCrisis": 20563
+      }
+    ]
+  }
+]
