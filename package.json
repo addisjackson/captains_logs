@@ -2,7 +2,7 @@
   "name": "captains_log",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://addisjackson.github.io/captains-log",
+  "homepage": "https://addisjackson.github.io/captains_log",
 
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
