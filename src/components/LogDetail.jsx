@@ -1,7 +1,6 @@
-// src/components/LogDetail.jsx
 import React, { useState, useEffect } from "react";
 import { useParams, Link, useNavigate } from "react-router-dom";
-import { getLogs, removeLog, updateLog, saveLogs } from "../model/logStorage";
+import { getLogs, removeLog, updateLog } from "../model/logStorage";
 import { captainImages, shipImages, supportImages } from "../assets/index.js";
 import EditLogModal from "./EditLogModal";
 
@@ -12,17 +11,7 @@ const LogDetail = () => {
   const [captainEntry, setCaptainEntry] = useState(null);
   const [log, setLog] = useState(null);
   const [showEditModal, setShowEditModal] = useState(false);
-  const [bgImage, setBgImage] = useState("");
 
-  // Pick random background image on load
-  useEffect(() => {
-    if (supportImages && supportImages.length > 0) {
-      const randomIndex = Math.floor(Math.random() * supportImages.length);
-      setBgImage(supportImages[randomIndex]);
-    }
-  }, []);
-
-  // Load logs
   useEffect(() => {
     const logs = getLogs() || [];
     const entry = logs.find(
@@ -40,85 +29,94 @@ const LogDetail = () => {
 
   const handleDelete = () => {
     removeLog(captainEntry.captainName, log.id);
-    navigate("/"); // redirect back to logs list
+    navigate("/");
   };
 
   const handleSave = (updatedLog) => {
     updateLog(captainEntry.captainName, updatedLog);
-    setLog(updatedLog); // ✅ update state so UI refreshes instantly
+    setLog(updatedLog);
   };
 
   return (
-    <div
-      className="max-w-4xl mx-auto bg-white shadow-lg rounded-lg p-6 mt-8 relative"
-      style={{
-        backgroundImage: `url(${bgImage})`,
-        backgroundSize: "cover",
-        backgroundPosition: "center",
-        backgroundRepeat: "no-repeat",
-        opacity: 0.95,
-      }}
-    >
-      <div className="flex justify-between items-center mb-6">
-        <h2 className="text-3xl font-bold">{log.logTitle}</h2>
-        <Link to="/" className="text-blue-600 hover:underline">
+    <div className="min-h-screen relative bg-listblue">
+      {/* Background image */}
+      <div
+        className="fixed inset-0 bg-cover bg-center z-0"
+        style={{
+          backgroundImage: `url(${supportImages["star-trek-captains3.avif"]})`,
+        }}
+      />
+      {/* Overlay */}
+      <div className="fixed inset-0 bg-blue-500 opacity-30 z-0"></div>
+
+      {/* Log card */}
+      <div className="relative z-10 max-w-4xl mx-auto bg-blue-200 shadow-lg rounded-lg p-6 mt-8">
+        {/* Heading with partial background */}
+        <div className="mb-6 relative">
+          <div className="absolute top-0 left-0 h-full w-3/4 bg-blue-600 rounded-md -z-10"></div>
+          <h2 className="text-3xl font-bold text-white pl-4 py-2">
+            Captain’s Log: {log.logTitle}
+          </h2>
+        </div>
+
+        <Link to="/" className="text-blue-600 hover:underline mb-6 inline-block">
           ← Back to Logs
         </Link>
-      </div>
 
-      <div className="flex justify-center items-center gap-8 mb-6">
-        <div className="flex flex-col items-center">
-          <img
-            src={captainImages[captainEntry.captainName]}
-            alt={captainEntry.captainName}
-            className="w-64 h-64 rounded-full object-cover shadow-md"
+        <div className="flex justify-center items-center gap-40 mb-6">
+          <div className="flex flex-col items-center">
+            <img
+              src={captainImages[captainEntry.captainName]}
+              alt={captainEntry.captainName}
+              className="w-64 h-64 rounded-full object-cover shadow-md"
+            />
+            <span className="mt-2 font-semibold">{captainEntry.captainName}</span>
+          </div>
+          <div className="flex flex-col items-center">
+            <img
+              src={shipImages[captainEntry.shipName]}
+              alt={captainEntry.shipName}
+              className="w-64 h-64 object-contain shadow-md"
+            />
+            <span className="mt-2 font-semibold">{captainEntry.shipName}</span>
+          </div>
+        </div>
+
+        <div className="space-y-4 text-center">
+          <p><strong>Date:</strong> {log.date}</p>
+          <p><strong>Location:</strong> {log.location}</p>
+          <p><strong>Days Since Last Crisis:</strong> {log.daysSinceLastCrisis}</p>
+          <p><strong>Mistakes Made:</strong> {log.mistakesWereMadeToday ? "Yes" : "No"}</p>
+          <div>
+            <strong>Content:</strong>
+            <p className="mt-2 p-4 bg-blue-50 rounded">{log.logContent}</p>
+          </div>
+        </div>
+
+        <div className="flex justify-between mt-6">
+          <button
+            onClick={() => setShowEditModal(true)}
+            className="bg-blue-600 text-white px-6 py-2 rounded shadow hover:bg-blue-700"
+          >
+            Edit
+          </button>
+          <button
+            onClick={handleDelete}
+            className="bg-red-600 text-white px-6 py-2 rounded shadow hover:bg-red-700"
+          >
+            Delete
+          </button>
+        </div>
+
+        {showEditModal && (
+          <EditLogModal
+            log={log}
+            captain={captainEntry}
+            onClose={() => setShowEditModal(false)}
+            onSave={handleSave}
           />
-          <span className="mt-2 font-semibold">{captainEntry.captainName}</span>
-        </div>
-        <div className="flex flex-col items-center">
-          <img
-            src={shipImages[captainEntry.shipName]}
-            alt={captainEntry.shipName}
-            className="w-64 h-64 object-contain shadow-md"
-          />
-          <span className="mt-2 font-semibold">{captainEntry.shipName}</span>
-        </div>
+        )}
       </div>
-
-      <div className="space-y-4 text-center">
-        <p><strong>Date:</strong> {log.date}</p>
-        <p><strong>Location:</strong> {log.location}</p>
-        <p><strong>Days Since Last Crisis:</strong> {log.daysSinceLastCrisis}</p>
-        <p><strong>Mistakes Made:</strong> {log.mistakesWereMadeToday ? "Yes" : "No"}</p>
-        <div>
-          <strong>Content:</strong>
-          <p className="mt-2 p-4 bg-gray-100 rounded">{log.logContent}</p>
-        </div>
-      </div>
-
-      <div className="flex justify-between mt-6">
-        <button
-          onClick={() => setShowEditModal(true)}
-          className="bg-blue-600 text-white px-6 py-2 rounded shadow hover:bg-blue-700"
-        >
-          Edit
-        </button>
-        <button
-          onClick={handleDelete}
-          className="bg-red-600 text-white px-6 py-2 rounded shadow hover:bg-red-700"
-        >
-          Delete
-        </button>
-      </div>
-
-      {showEditModal && (
-        <EditLogModal
-          log={log}
-          captain={captainEntry}
-          onClose={() => setShowEditModal(false)}
-          onSave={handleSave}
-        />
-      )}
     </div>
   );
 };
