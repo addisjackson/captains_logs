@@ -1,9 +1,8 @@
 import { useState, useEffect } from "react";
 import { Routes, Route } from "react-router-dom";
-import { initLogs, getLogs, updateLog } from "./model/logStorage";
+import { initLogs, getLogs } from "./model/logStorage";
 import LogList from "./components/LogList";
 import LogDetail from "./components/LogDetail";
-import { captainNames } from "./assets/index.js";
 
 initLogs();
 
@@ -22,18 +21,9 @@ function App() {
     setEditingLog({ ...log, captainEntry });
   };
 
-  const handleCloseModal = () => {
-    setEditingLog(null);
-    refreshLogs();
-  };
-
   const handleFilterChange = (updated) => {
     setFilters((prev) => ({ ...prev, ...updated }));
   };
-
-  const normalizedCaptainNames = captainNames.map(name =>
-    name.toLowerCase().replace(/\s/g, "_").replace(/-/g, "")
-  );
 
   return (
     <>

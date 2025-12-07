@@ -1,13 +1,9 @@
 import React, { useState } from "react";
 
-const normalizeCaptainName = (name = "") =>
-  name.toLowerCase().replace(/\s+/g, "_").replace(/-/g, "");
-
 const AddNewLogModal = ({ onClose, onSave, captains = [], lastCrisisDates = {} }) => {
   const [selectedCaptain, setSelectedCaptain] = useState(captains[0] || "");
   const [shipName, setShipName] = useState("");
   const [logTitle, setLogTitle] = useState("");
-  const [logContent, setLogContent] = useState("");
   const [location, setLocation] = useState("");
   const [date, setDate] = useState(new Date().toISOString().slice(0, 10));
   const [mistakesWereMadeToday, setMistakesWereMadeToday] = useState(false);

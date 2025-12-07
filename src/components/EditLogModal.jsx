@@ -1,9 +1,6 @@
 import React, { useState } from "react";
 import { getLogs, saveLogs } from "../model/logStorage"; // ✅ add saveLogs to persist edits
 
-const normalizeCaptainName = (name = "") =>
-  name.toLowerCase().replace(/\s+/g, "_").replace(/-/g, "");
-
 const EditLogModal = ({ log, captain, onClose, onSave }) => {
   const [logTitle, setLogTitle] = useState(log.logTitle || "");
   const [logContent, setLogContent] = useState(log.logContent || "");
